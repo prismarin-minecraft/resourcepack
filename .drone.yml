@@ -17,3 +17,6 @@ steps:
         from_secret: VAULT_TOKEN
       GITHUB_TOKEN:
         from_secret: GITHUB_TOKEN
+
+image_pull_secrets:
+  - REGISTRY_SECRET
