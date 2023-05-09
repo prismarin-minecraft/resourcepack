@@ -1,0 +1,19 @@
+---
+kind: pipeline
+type: docker
+name: upload
+
+trigger:
+  branch:
+    - master
+  event:
+    - push
+
+steps:
+  - name: upload
+    image: docker-private.prismar.in/minecraft/resourcepack-uploader
+    environment:
+      VAULT_TOKEN:
+        from_secret: VAULT_TOKEN
+      GITHUB_TOKEN:
+        from_secret: GITHUB_TOKEN
