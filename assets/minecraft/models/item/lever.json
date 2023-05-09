@@ -1,0 +1,51 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/lever"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/attachments/suppressor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/attachments/adaptive_chambering"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/attachments/barrel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/attachments/horizontal_grip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/attachments/extended_magazine"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/attachments/bipod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/attachments/vertical_grip"
+		}
+	]
+}

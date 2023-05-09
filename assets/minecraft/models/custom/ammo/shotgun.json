@@ -1,0 +1,76 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/ammo/shotgun",
+		"particle": "item/ammo/shotgun"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 0.3, 9],
+			"faces": {
+				"north": {"uv": [6, 2, 8, 3], "texture": "#0"},
+				"east": {"uv": [6, 3, 8, 4], "texture": "#0"},
+				"south": {"uv": [4, 6, 6, 7], "texture": "#0"},
+				"west": {"uv": [6, 4, 8, 5], "texture": "#0"},
+				"up": {"uv": [4, 6, 2, 4], "texture": "#0"},
+				"down": {"uv": [6, 4, 4, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.1, 0.3, 7.1],
+			"to": [8.9, 4.6, 8.9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 4], "texture": "#0"},
+				"south": {"uv": [0, 4, 2, 8], "texture": "#0"},
+				"west": {"uv": [4, 0, 6, 4], "texture": "#0"},
+				"up": {"uv": [8, 2, 6, 0], "texture": "#0"},
+				"down": {"uv": [4, 6, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.2, 4.4, 7.2],
+			"to": [8.8, 4.7, 8.8],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 4], "texture": "#0"},
+				"south": {"uv": [0, 4, 2, 8], "texture": "#0"},
+				"west": {"uv": [4, 0, 6, 4], "texture": "#0"},
+				"up": {"uv": [8, 2, 6, 0], "texture": "#0"},
+				"down": {"uv": [4, 6, 2, 8], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 0.25],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 0.25],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-22, 0, 0],
+			"translation": [0, 4.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-16, 0, 0],
+			"translation": [0, 3.25, -1.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [-3, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [0, 0, 50.75],
+			"translation": [-7.75, 6.75, 0],
+			"scale": [1.8, 1.8, 1.8]
+		}
+	}
+}

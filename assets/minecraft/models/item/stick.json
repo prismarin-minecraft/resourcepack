@@ -1,0 +1,52 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/throwable/airdrop"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/throwable/grenade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/throwable/molotov"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/throwable/uav"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/throwable/gas_grenade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/throwable/impact_grenade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/placeable/landmine"
+		}
+		
+	]
+}

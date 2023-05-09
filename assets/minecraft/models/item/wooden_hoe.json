@@ -1,0 +1,45 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/wooden_hoe"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/pistol/tec9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/pistol/skorpion"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/pistol/desert_eagle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/pistol/glock17/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/pistol/usp/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10400
+			},
+			"model": "custom/pistol/glock17/prismarin"
+		}
+	]
+}

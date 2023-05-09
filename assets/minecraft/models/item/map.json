@@ -1,0 +1,47 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/map"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1010 },
+      "model": "custom/invisibleitem"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "custom/battlepass/bp_left_line"
+    },
+
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "custom/battlepass/bp_down_line"
+    },
+
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "custom/battlepass/bp_up_line"
+    },
+
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "custom/battlepass/bp_right_line"
+    },
+    {
+      "predicate": { "custom_model_data": 101 },
+      "model": "custom/battlepass/bp_left_line_success"
+    },
+    {
+      "predicate": { "custom_model_data": 102 },
+      "model": "custom/battlepass/bp_down_line_success"
+    },
+    {
+      "predicate": { "custom_model_data": 103 },
+      "model": "custom/battlepass/bp_up_line_success"
+    },
+    {
+      "predicate": { "custom_model_data": 104 },
+      "model": "custom/battlepass/bp_right_line_success"
+    }
+  ]
+}

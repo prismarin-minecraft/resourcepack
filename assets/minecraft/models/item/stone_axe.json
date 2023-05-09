@@ -1,0 +1,27 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/stone_axe"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/lmg/l86/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/lmg/pkp"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10100
+			},
+			"model": "custom/lmg/l86/prismarin"
+		}
+	]
+}

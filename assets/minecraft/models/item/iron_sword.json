@@ -1,0 +1,33 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/meele/katana/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/meele/tomahawk"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/meele/knife"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10100
+			},
+			"model": "custom/meele/katana/kold"
+		}
+	]
+}

@@ -1,0 +1,143 @@
+{
+    "shoot.ar": {
+      "sounds": [
+			"shoot/ar"
+		]
+    },
+    "shoot.lmg": {
+        "sounds": [
+              "shoot/lmg"
+          ]
+      },
+    "shoot.smg": {
+        "sounds": [
+              "shoot/smg"
+          ]
+      },
+    "shoot.sniper": {
+        "sounds": [
+              "shoot/sniper"
+          ]
+      },
+      "railgun.shoot": {
+        "sounds": [
+              "railgun/shoot"
+          ]
+      },
+      "railgun.charge": {
+        "sounds": [
+              "railgun/charge"
+          ]
+      },
+    "shoot.pistol": {
+        "sounds": [
+              "shoot/pistol"
+          ]
+      },
+      "shoot.shotgun": {
+        "sounds": [
+              "shoot/shotgun"
+          ]
+      },
+      "grenade.explosion": {
+        "sounds": [
+              "grenade/explosion"
+          ]
+      },
+      "grenade.gas": {
+        "sounds": [
+              "grenade/gas"
+          ]
+      },
+      "misc.lowammo": {
+        "sounds": [
+              "misc/lowammo"
+          ]
+      },
+      "reload.ar.clipin": {
+        "sounds": [
+              "reload/ar_clipin"
+          ]
+      },
+      "reload.ar.clipout": {
+        "sounds": [
+              "reload/ar_clipout"
+          ]
+      },
+      "reload.pistol.clipin": {
+        "sounds": [
+              "reload/pistol_clipin"
+          ]
+      },
+      "reload.pistol.clipout": {
+        "sounds": [
+              "reload/pistol_clipout"
+          ]
+      },
+      "reload.sniper.clipin": {
+        "sounds": [
+              "reload/sniper_clipin"
+          ]
+      },
+      "reload.sniper.clipout": {
+        "sounds": [
+              "reload/sniper_clipout"
+          ]
+      },
+      "reload.shotgun.clipin": {
+        "sounds": [
+              "reload/shotgun_clipin"
+          ]
+      },
+      "reload.lmg.clipin": {
+        "sounds": [
+              "reload/lmg_clipin"
+          ]
+      },
+      "reload.lmg.clipout": {
+        "sounds": [
+              "reload/lmg_clipout"
+          ]
+      },
+      "reload.smg.clipin": {
+        "sounds": [
+              "reload/smg_clipin"
+          ]
+      },
+      "reload.smg.clipout": {
+        "sounds": [
+              "reload/smg_clipout"
+          ]
+      },
+      "medical.bandage": {
+        "sounds": [
+              "medical/bandage"
+          ]
+      },
+      "impact.hit": {
+        "sounds": [
+              "impact/hit"
+          ]
+      },
+      "impact.headshot": {
+        "sounds": [
+              "impact/headshot"
+          ]
+      },
+      "impact.cement": {
+        "sounds": [
+              "impact/cement"
+          ]
+      },
+      "impact.glass": {
+        "sounds": [
+              "impact/glass"
+          ]
+      },
+      "impact.tree": {
+        "sounds": [
+              "impact/tree"
+          ]
+      }
+      
+  }

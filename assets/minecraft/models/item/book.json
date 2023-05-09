@@ -1,0 +1,28 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/book"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "custom/fabricator/not_filled"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "custom/fabricator/filled"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "custom/fabricator/selected"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "custom/misc/gui/plus"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "custom/misc/gui/arrow_left"
+    }
+  ]
+}

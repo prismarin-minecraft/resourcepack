@@ -1,0 +1,45 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/wooden_pickaxe"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/ar/ak12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/ar/m4a1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/ar/qbz95"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/ar/m16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/ar/asval/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10500
+			},
+			"model": "custom/ar/asval/prismarin"
+		}
+	]
+}
