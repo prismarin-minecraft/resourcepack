@@ -5,6 +5,7 @@
         {"type": "bitmap", "file": "minecraft:gui/battlepass.png","ascent": 13,"height": 139,"chars": ["ㇺ"]},
         {"type": "bitmap", "file": "minecraft:gui/fabricator.png","ascent": 13,"height": 139,"chars": ["字"]},
         {"type": "bitmap", "file": "minecraft:gui/machine_upgrades.png","ascent": 13,"height": 139,"chars": ["汉"]},
+        {"type": "bitmap", "file": "minecraft:gui/garden_cloche.png","ascent": 13,"height": 139,"chars": ["在"]},
         {"type": "bitmap", "file": "minecraft:gui/prismarin-chat-logo.png","ascent": 8,"height": 8,"chars": ["字"]}
     ]
 }
