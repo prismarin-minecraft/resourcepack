@@ -23,6 +23,10 @@
     {
       "predicate": { "custom_model_data": 5 },
       "model": "custom/misc/gui/arrow_left"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "custom/misc/gui/minus"
     }
   ]
 }
