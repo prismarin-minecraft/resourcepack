@@ -28,6 +28,12 @@
 				"custom_model_data": 4
 			},
 			"model": "custom/misc/title"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/misc/flag"
 		}
 	]
 }
