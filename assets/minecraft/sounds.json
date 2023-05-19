@@ -14,6 +14,11 @@
               "shoot/smg"
           ]
       },
+      "shoot.minigun": {
+        "sounds": [
+              "shoot/minigun"
+          ]
+      },
     "shoot.sniper": {
         "sounds": [
               "shoot/sniper"
