@@ -143,6 +143,11 @@
         "sounds": [
               "impact/tree"
           ]
+      },
+      "music.ez4ence": {
+        "sounds": [
+              "music/ez4ence"
+          ]
       }
       
   }
