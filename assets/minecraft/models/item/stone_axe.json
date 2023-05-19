@@ -19,6 +19,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/lmg/minigun/default"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 10100
 			},
 			"model": "custom/lmg/l86/prismarin"
