@@ -19,7 +19,7 @@
         { "type": "bitmap", "file": "minecraft:ranks/rogue.png", "ascent": 7, "height": 7, "chars": [ "一" ] },
         { "type": "bitmap", "file": "minecraft:ranks/runner.png", "ascent": 7, "height": 7, "chars": [ "他" ] },
         { "type": "bitmap", "file": "minecraft:ranks/scouter.png", "ascent": 7, "height": 7, "chars": [ "么" ] },
-        { "type": "bitmap", "file": "minecraft:ranks/recruit.png", "ascent": 7, "height": 7, "chars": [ "在" ] },
+        { "type": "bitmap", "file": "minecraft:ranks/recruit.png", "ascent": 7, "height": 7, "chars": [ "现" ] },
 
         { "type": "bitmap", "file": "minecraft:prismarin.png", "ascent": 7, "height": 7, "chars": [ "下" ] }
     ]
