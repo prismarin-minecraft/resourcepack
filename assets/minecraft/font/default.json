@@ -13,7 +13,7 @@
         { "type": "bitmap", "file": "minecraft:ranks/srmod.png", "ascent": 7, "height": 7, "chars": [ "是" ] },
         { "type": "bitmap", "file": "minecraft:ranks/mod.png", "ascent": 7, "height": 7, "chars": [ "了" ] },
         { "type": "bitmap", "file": "minecraft:ranks/jrmod.png", "ascent": 7, "height": 7, "chars": [ "不" ] },
-        { "type": "bitmap", "file": "minecraft:ranks/entertainer.png", "ascent": 7, "height": 7, "chars": [ "人" ] },
+       
         { "type": "bitmap", "file": "minecraft:ranks/predator.png", "ascent": 7, "height": 7, "chars": [ "这" ] },
         { "type": "bitmap", "file": "minecraft:ranks/rogue.png", "ascent": 7, "height": 7, "chars": [ "一" ] },
         { "type": "bitmap", "file": "minecraft:ranks/runner.png", "ascent": 7, "height": 7, "chars": [ "他" ] },
