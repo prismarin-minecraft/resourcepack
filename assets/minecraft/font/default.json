@@ -7,7 +7,6 @@
         {"type": "bitmap", "file": "minecraft:gui/machine_upgrades.png","ascent": 13,"height": 139,"chars": ["汉"]},
         {"type": "bitmap", "file": "minecraft:gui/garden_cloche.png","ascent": 13,"height": 139,"chars": ["在"]},
         {"type": "bitmap", "file": "minecraft:gui/prismarin-chat-logo.png","ascent": 8,"height": 8,"chars": ["字"]},
-
         { "type": "bitmap", "file": "minecraft:ranks/Admin.png", "ascent": 7, "height": 7, "chars": [ "我" ] },
         { "type": "bitmap", "file": "minecraft:ranks/Dev.png", "ascent": 7, "height": 7, "chars": [ "的" ] },
         { "type": "bitmap", "file": "minecraft:ranks/Builder.png", "ascent": 7, "height": 7, "chars": [ "你" ] },
@@ -20,7 +19,6 @@
         { "type": "bitmap", "file": "minecraft:ranks/runner.png", "ascent": 7, "height": 7, "chars": [ "他" ] },
         { "type": "bitmap", "file": "minecraft:ranks/scouter.png", "ascent": 7, "height": 7, "chars": [ "么" ] },
         { "type": "bitmap", "file": "minecraft:ranks/recruit.png", "ascent": 7, "height": 7, "chars": [ "现" ] },
-
-        { "type": "bitmap", "file": "minecraft:prismarin.png", "ascent": 7, "height": 7, "chars": [ "下" ] }
+        { "type": "bitmap", "file": "minecraft:ranks/prismarin.png", "ascent": 7, "height": 7, "chars": [ "下" ] }
     ]
 }
