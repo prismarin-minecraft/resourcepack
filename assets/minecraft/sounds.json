@@ -4,6 +4,11 @@
 			"shoot/ar"
 		]
     },
+    "shoot.grenadelauncher": {
+        "sounds": [
+              "shoot/grenadelauncher"
+          ]
+      },
     "shoot.lmg": {
         "sounds": [
               "shoot/lmg"

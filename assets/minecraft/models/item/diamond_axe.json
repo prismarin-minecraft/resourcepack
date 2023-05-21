@@ -10,6 +10,12 @@
 				"custom_model_data": 1
 			},
 			"model": "custom/railgun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/misc/grenade_launcher"
 		}
 	]
 }
