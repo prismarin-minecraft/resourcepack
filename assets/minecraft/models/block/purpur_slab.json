@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/generator/gen",
-		"particle": "block/generator/stone"
+		"2": "block/machines/generator/gen",
+		"particle": "block/machines/generator/stone"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/garden_cloche/chiseled_stone_bricks",
-		"2": "block/garden_cloche/dark_oak_planks",
-		"particle": "block/garden_cloche/dark_oak_planks"
+		"1": "block/machines/garden_cloche/chiseled_stone_bricks",
+		"2": "block/machines/garden_cloche/dark_oak_planks",
+		"particle": "block/machines/garden_cloche/dark_oak_planks"
 	},
 	"elements": [
 		{

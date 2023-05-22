@@ -15,7 +15,13 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "custom/garden_cloche/top"
+			"model": "custom/machines/garden_cloche/top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/machines/sentry"
 		}
 	]
 }

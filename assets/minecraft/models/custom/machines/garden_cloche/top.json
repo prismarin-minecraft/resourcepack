@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/garden_cloche/texture",
-		"1": "item/garden_cloche/podzol_top",
-		"2": "item/garden_cloche/oak_sapling",
-		"particle": "item/garden_cloche/texture"
+		"0": "item/machines/garden_cloche/texture",
+		"1": "item/machines/garden_cloche/podzol_top",
+		"2": "item/machines/garden_cloche/oak_sapling",
+		"particle": "item/machines/garden_cloche/texture"
 	},
 	"elements": [
 		{

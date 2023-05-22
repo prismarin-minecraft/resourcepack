@@ -6,15 +6,15 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "custom/fabricator/not_filled"
+      "model": "custom/machines/fabricator/not_filled"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "custom/fabricator/filled"
+      "model": "custom/machines/fabricator/filled"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "custom/fabricator/selected"
+      "model": "custom/machines/fabricator/selected"
     },
     {
       "predicate": { "custom_model_data": 4 },

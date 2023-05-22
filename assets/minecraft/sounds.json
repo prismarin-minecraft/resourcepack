@@ -14,6 +14,11 @@
               "shoot/lmg"
           ]
       },
+      "shoot.sentry": {
+        "sounds": [
+              "shoot/sentry"
+          ]
+      },
     "shoot.smg": {
         "sounds": [
               "shoot/smg"
