@@ -22,6 +22,24 @@
 				"custom_model_data": 3
 			},
 			"model": "custom/money/money_bag"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/misc/trophys/ssn_1_1st"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/misc/trophys/ssn_1_2nd"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/misc/trophys/ssn_1_3rd"
 		}
 	]
 }
