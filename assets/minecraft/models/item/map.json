@@ -5,10 +5,6 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1010 },
-      "model": "custom/invisibleitem"
-    },
-    {
       "predicate": { "custom_model_data": 1 },
       "model": "custom/battlepass/bp_left_line"
     },
@@ -42,6 +38,10 @@
     {
       "predicate": { "custom_model_data": 104 },
       "model": "custom/battlepass/bp_right_line_success"
+    },
+    {
+      "predicate": { "custom_model_data": 105 },
+      "model": "custom/invisibleitem"
     }
   ]
 }
