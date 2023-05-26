@@ -33,6 +33,8 @@
         { "type": "bitmap", "file": "minecraft:gui/perks/fortify.png", "ascent": 37, "height": 150, "chars": [ "子" ] },
 
         { "type": "bitmap", "file": "minecraft:gui/tracers.png", "ascent": 45, "height": 139, "chars": [ "见" ] },
-        { "type": "bitmap", "file": "minecraft:gui/hardpoint.png", "ascent": 45, "height": 139, "chars": [ "以" ] }
+        { "type": "bitmap", "file": "minecraft:gui/hardpoint.png", "ascent": 45, "height": 139, "chars": [ "以" ] },
+
+        { "type": "bitmap", "file": "minecraft:gui/titles/flash_bang.png", "ascent": 500, "height": 1000, "chars": [ "語" ] }
     ]
 }
