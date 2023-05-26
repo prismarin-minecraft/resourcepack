@@ -69,6 +69,11 @@
               "misc/lowammo"
           ]
       },
+      "misc.airstrike.request": {
+        "sounds": [
+              "misc/airstrike_request"
+          ]
+      },
       "reload.ar.clipin": {
         "sounds": [
               "reload/ar_clipin"
