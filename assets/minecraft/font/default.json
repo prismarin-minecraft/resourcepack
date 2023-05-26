@@ -32,6 +32,7 @@
         { "type": "bitmap", "file": "minecraft:gui/perks/fast_hands.png", "ascent": 37, "height": 150, "chars": [ "象" ] },
         { "type": "bitmap", "file": "minecraft:gui/perks/fortify.png", "ascent": 37, "height": 150, "chars": [ "子" ] },
 
-        { "type": "bitmap", "file": "minecraft:gui/tracers.png", "ascent": 45, "height": 139, "chars": [ "见" ] }
+        { "type": "bitmap", "file": "minecraft:gui/tracers.png", "ascent": 45, "height": 139, "chars": [ "见" ] },
+        { "type": "bitmap", "file": "minecraft:gui/hardpoint.png", "ascent": 45, "height": 139, "chars": [ "以" ] }
     ]
 }
