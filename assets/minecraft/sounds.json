@@ -64,6 +64,11 @@
               "grenade/gas"
           ]
       },
+      "grenade.flashbang": {
+        "sounds": [
+              "grenade/flashbang"
+          ]
+      },
       "misc.lowammo": {
         "sounds": [
               "misc/lowammo"
