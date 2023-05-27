@@ -1,1 +1,201 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/leather_horse_armor"},"overrides":[{"predicate":{"custom_model_data":1},"model":"custom/mobs/torotoro/body"},{"predicate":{"custom_model_data":2},"model":"custom/mobs/torotoro/arti_case_left"},{"predicate":{"custom_model_data":3},"model":"custom/mobs/torotoro/arti_case_right"},{"predicate":{"custom_model_data":4},"model":"custom/mobs/torotoro/heat_dispenser"},{"predicate":{"custom_model_data":5},"model":"custom/mobs/torotoro/core"},{"predicate":{"custom_model_data":6},"model":"custom/mobs/torotoro/leftarm"},{"predicate":{"custom_model_data":7},"model":"custom/mobs/torotoro/leftfront_arm"},{"predicate":{"custom_model_data":8},"model":"custom/mobs/torotoro/left_fist"},{"predicate":{"custom_model_data":9},"model":"custom/mobs/torotoro/rightarm"},{"predicate":{"custom_model_data":10},"model":"custom/mobs/torotoro/right_fist"},{"predicate":{"custom_model_data":11},"model":"custom/mobs/torotoro/rightfront_arm"},{"predicate":{"custom_model_data":12},"model":"custom/mobs/torotoro/hip"},{"predicate":{"custom_model_data":13},"model":"custom/mobs/torotoro/leftleg"},{"predicate":{"custom_model_data":14},"model":"custom/mobs/torotoro/leftfoot"},{"predicate":{"custom_model_data":15},"model":"custom/mobs/torotoro/left_fire"},{"predicate":{"custom_model_data":16},"model":"custom/mobs/torotoro/left_frontleg"},{"predicate":{"custom_model_data":17},"model":"custom/mobs/torotoro/rightleg"},{"predicate":{"custom_model_data":18},"model":"custom/mobs/torotoro/right_fire"},{"predicate":{"custom_model_data":19},"model":"custom/mobs/torotoro/rightfoot"},{"predicate":{"custom_model_data":20},"model":"custom/mobs/torotoro/right_frontleg"}]}
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/leather_horse_armor" },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "custom/mobs/torotoro/body"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "custom/mobs/torotoro/arti_case_left"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "custom/mobs/torotoro/arti_case_right"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "custom/mobs/torotoro/heat_dispenser"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "custom/mobs/torotoro/core"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "custom/mobs/torotoro/leftarm"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "custom/mobs/torotoro/leftfront_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "custom/mobs/torotoro/left_fist"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "custom/mobs/torotoro/rightarm"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "custom/mobs/torotoro/right_fist"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "custom/mobs/torotoro/rightfront_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "custom/mobs/torotoro/hip"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "custom/mobs/torotoro/leftleg"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "custom/mobs/torotoro/leftfoot"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "custom/mobs/torotoro/left_fire"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "custom/mobs/torotoro/left_frontleg"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "custom/mobs/torotoro/rightleg"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "custom/mobs/torotoro/right_fire"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "custom/mobs/torotoro/rightfoot"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "custom/mobs/torotoro/right_frontleg"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "custom/mobs/zaku/zaku/head"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "custom/mobs/zaku/zaku/core"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "custom/mobs/zaku/zaku/right_up"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "custom/mobs/zaku/zaku/right_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 25 },
+      "model": "custom/mobs/zaku/zaku/right_arm_down"
+    },
+    {
+      "predicate": { "custom_model_data": 26 },
+      "model": "custom/mobs/zaku/zaku/right_hand"
+    },
+    {
+      "predicate": { "custom_model_data": 27 },
+      "model": "custom/mobs/zaku/zaku/axe1"
+    },
+    {
+      "predicate": { "custom_model_data": 28 },
+      "model": "custom/mobs/zaku/zaku/left_up"
+    },
+    {
+      "predicate": { "custom_model_data": 29 },
+      "model": "custom/mobs/zaku/zaku/left_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 30 },
+      "model": "custom/mobs/zaku/zaku/left_arm_down"
+    },
+    {
+      "predicate": { "custom_model_data": 31 },
+      "model": "custom/mobs/zaku/zaku/left_hand"
+    },
+    {
+      "predicate": { "custom_model_data": 32 },
+      "model": "custom/mobs/zaku/zaku/axe2"
+    },
+    {
+      "predicate": { "custom_model_data": 33 },
+      "model": "custom/mobs/zaku/zaku/body_down"
+    },
+    { "predicate": { "custom_model_data": 34 }, "model": "custom/mobs/zaku/zaku/1" },
+    { "predicate": { "custom_model_data": 35 }, "model": "custom/mobs/zaku/zaku/2" },
+    { "predicate": { "custom_model_data": 36 }, "model": "custom/mobs/zaku/zaku/3" },
+    {
+      "predicate": { "custom_model_data": 37 },
+      "model": "custom/mobs/zaku/zaku/bone"
+    },
+    {
+      "predicate": { "custom_model_data": 38 },
+      "model": "custom/mobs/zaku/zaku/body_up"
+    },
+    {
+      "predicate": { "custom_model_data": 39 },
+      "model": "custom/mobs/zaku/zaku_lore/bone3"
+    },
+    {
+      "predicate": { "custom_model_data": 40 },
+      "model": "custom/mobs/zaku/zaku_lore/bone"
+    },
+    {
+      "predicate": { "custom_model_data": 41 },
+      "model": "custom/mobs/zaku/zaku_lore/bone2"
+    },
+    {
+      "predicate": { "custom_model_data": 42 },
+      "model": "custom/mobs/zaku/zaku_lore/bone4"
+    },
+    {
+      "predicate": { "custom_model_data": 43 },
+      "model": "custom/mobs/zaku/zaku_lore1/bone3"
+    },
+    {
+      "predicate": { "custom_model_data": 44 },
+      "model": "custom/mobs/zaku/zaku_lore1/bone"
+    },
+    {
+      "predicate": { "custom_model_data": 45 },
+      "model": "custom/mobs/zaku/zaku_lore1/bone2"
+    },
+    {
+      "predicate": { "custom_model_data": 46 },
+      "model": "custom/mobs/zaku/zaku_lore1/bone4"
+    },
+    {
+      "predicate": { "custom_model_data": 47 },
+      "model": "custom/mobs/zaku/zaku_lore2/bone3"
+    },
+    {
+      "predicate": { "custom_model_data": 48 },
+      "model": "custom/mobs/zaku/zaku_lore2/bone"
+    },
+    {
+      "predicate": { "custom_model_data": 49 },
+      "model": "custom/mobs/zaku/zaku_lore2/bone2"
+    },
+    {
+      "predicate": { "custom_model_data": 50 },
+      "model": "custom/mobs/zaku/zaku_lore2/bone4"
+    },
+    {
+      "predicate": { "custom_model_data": 51 },
+      "model": "custom/mobs/zaku/zaku_mis/f1"
+    }
+  ]
+}
