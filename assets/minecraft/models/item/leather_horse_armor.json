@@ -196,6 +196,54 @@
     {
       "predicate": { "custom_model_data": 51 },
       "model": "custom/mobs/zaku/zaku_mis/f1"
+    },
+    {
+      "predicate": { "custom_model_data": 52 },
+      "model": "custom/mobs/zaku/zaku_mised/f1"
+    },
+    {
+      "predicate": { "custom_model_data": 53 },
+      "model": "custom/mobs/zaku/zaku_mised/f2"
+    },
+    {
+      "predicate": { "custom_model_data": 54 },
+      "model": "custom/mobs/zaku/zaku_mised/f3"
+    },
+    {
+      "predicate": { "custom_model_data": 55 },
+      "model": "custom/mobs/zaku/zaku_mised/f4"
+    },
+    {
+      "predicate": { "custom_model_data": 56 },
+      "model": "custom/mobs/zaku/zaku_mised/f5"
+    },
+    {
+      "predicate": { "custom_model_data": 57 },
+      "model": "custom/mobs/zaku/zaku_mised/f6"
+    },
+    {
+      "predicate": { "custom_model_data": 58 },
+      "model": "custom/mobs/zaku/zaku_mised/f7"
+    },
+    {
+      "predicate": { "custom_model_data": 59 },
+      "model": "custom/mobs/zaku/zaku_mised/f8"
+    },
+    {
+      "predicate": { "custom_model_data": 60 },
+      "model": "custom/mobs/zaku/zaku_natk1/body"
+    },
+    {
+      "predicate": { "custom_model_data": 61 },
+      "model": "custom/mobs/zaku/zaku_natk2/body"
+    },
+    {
+      "predicate": { "custom_model_data": 62 },
+      "model": "custom/mobs/zaku/zaku_natk3/body"
+    },
+    {
+      "predicate": { "custom_model_data": 63 },
+      "model": "custom/mobs/zaku/zaku_natk3/body2"
     }
   ]
 }
