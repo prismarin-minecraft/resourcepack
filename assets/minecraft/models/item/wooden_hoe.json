@@ -33,6 +33,18 @@
 			"predicate": {
 				"custom_model_data": 5
 			},
+			"model": "custom/pistol/glock17/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/pistol/glock17/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
 			"model": "custom/pistol/usp/default"
 		},
 		{

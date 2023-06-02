@@ -56,17 +56,17 @@
       },
       "grenade.explosion": {
         "sounds": [
-              "grenade/explosion"
+              "throwable/explosion"
           ]
       },
       "grenade.gas": {
         "sounds": [
-              "grenade/gas"
+              "throwable/gas"
           ]
       },
       "grenade.flashbang": {
         "sounds": [
-              "grenade/flashbang"
+              "throwable/flashbang"
           ]
       },
       "misc.lowammo": {
@@ -74,9 +74,17 @@
               "misc/lowammo"
           ]
       },
-      "misc.airstrike.request": {
+      "airstrike.request": {
         "sounds": [
-              "misc/airstrike_request"
+              "throwable/airstrike/airstrike_request"
+          ]
+      },
+      "airstrike.impact": {
+        "sounds": [
+              "throwable/airstrike/airstrike_impact1",
+              "throwable/airstrike/airstrike_impact2",
+              "throwable/airstrike/airstrike_impact3",
+              "throwable/airstrike/airstrike_impact4"
           ]
       },
       "reload.ar.clipin": {
@@ -167,6 +175,56 @@
       "music.ez4ence": {
         "sounds": [
               "music/ez4ence"
+          ]
+      },
+      "aim.sniper": {
+        "sounds": [
+              "aim/sniper"
+          ]
+      },
+      "aim.in": {
+        "sounds": [
+              "aim/aim_in"
+          ]
+      },
+      "aim.out": {
+        "sounds": [
+              "aim/aim_out"
+          ]
+      },
+      "uav": {
+        "sounds": [
+              "misc/uav"
+          ]
+      },
+      "equip.guns.ar": {
+        "sounds": [
+              "equip/guns/ar"
+          ]
+      },
+      "equip.guns.smg": {
+        "sounds": [
+              "equip/guns/smg"
+          ]
+      },
+      "equip.guns.lmg": {
+        "sounds": [
+              "equip/guns/lmg"
+          ]
+      },
+      "equip.guns.pistol": {
+        "sounds": [
+              "equip/guns/pistol"
+          ]
+      },
+      "equip.guns.sniper": {
+        "sounds": [
+              "equip/guns/sniper"
+          ]
+      },
+      "equip.melee": {
+        "sounds": [
+              "equip/melee"
           ]
       }
       
