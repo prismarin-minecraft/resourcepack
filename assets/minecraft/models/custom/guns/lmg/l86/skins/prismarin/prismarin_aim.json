@@ -3121,7 +3121,7 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_righthand": {
-			"translation": [-9, 2.25, -1],
+			"translation": [-9, 1.75, -1],
 			"scale": [1.2, 1.2, 1.2]
 		},
 		"firstperson_lefthand": {
