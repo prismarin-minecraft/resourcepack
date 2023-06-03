@@ -9,19 +9,56 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "custom/shotgun/mb500"
+			"model": "custom/guns/shotgun/mb500/default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "custom/shotgun/aa12"
+			"model": "custom/guns/shotgun/mb500/default_reload"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "custom/shotgun/double_barrel"
+			"model": "custom/guns/shotgun/mb500/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/guns/shotgun/aa12/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/guns/shotgun/aa12/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/guns/shotgun/aa12/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "custom/guns/shotgun/double_barrel/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "custom/guns/shotgun/double_barrel/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "custom/guns/shotgun/double_barrel/default_aim"
+
 		}
 	]
 }

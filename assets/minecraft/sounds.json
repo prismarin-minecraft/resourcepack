@@ -222,6 +222,11 @@
               "equip/guns/sniper"
           ]
       },
+      "equip.guns.shotgun": {
+        "sounds": [
+              "equip/guns/shotgun"
+          ]
+      },
       "equip.melee": {
         "sounds": [
               "equip/melee"

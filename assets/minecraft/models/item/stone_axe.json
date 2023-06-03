@@ -9,25 +9,67 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "custom/lmg/l86/default"
+			"model": "custom/guns/lmg/l86/default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "custom/lmg/pkp"
+			"model": "custom/guns/lmg/l86/default_reload"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "custom/lmg/minigun/default"
+			"model": "custom/guns/lmg/l86/default_aim"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 10100
+				"custom_model_data": 5
 			},
-			"model": "custom/lmg/l86/prismarin"
+			"model": "custom/guns/lmg/pkp/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/guns/lmg/pkp/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/guns/lmg/pkp/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "custom/guns/lmg/minigun/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "custom/guns/lmg/minigun/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10001
+			},
+			"model": "custom/guns/lmg/l86/skins/prismarin/prismarin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10002
+			},
+			"model": "custom/guns/lmg/l86/skins/prismarin/prismarin_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10003
+			},
+			"model": "custom/guns/lmg/l86/skins/prismarin/prismarin_aim"
 		}
 	]
 }

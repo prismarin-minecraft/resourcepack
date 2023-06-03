@@ -9,7 +9,7 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "custom/sniper/scopes/scope"
+			"model": "custom/guns/sniper/scopes/scope"
 		}
 	]
 }

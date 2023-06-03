@@ -9,31 +9,56 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "custom/sniper/awp/default"
+			"model": "custom/guns/sniper/awp/default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "custom/sniper/ballista"
+			"model": "custom/guns/sniper/awp/default_reload"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 3
+				"custom_model_data": 5
 			},
-			"model": "custom/sniper/l96"
+			"model": "custom/guns/sniper/ballista/default"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 4
+				"custom_model_data": 6
 			},
-			"model": "custom/sniper/m107"
+			"model": "custom/guns/sniper/ballista/default_reload"
+		},
+
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "custom/guns/sniper/l96/default"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 10100
+				"custom_model_data": 10
 			},
-			"model": "custom/sniper/awp/prismarin"
+			"model": "custom/guns/sniper/l96/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "custom/guns/sniper/m107/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "custom/guns/sniper/m107/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10001
+			},
+			"model": "custom/guns/sniper/awp/skins/prismarin/prismarin"
 		}
 	]
 }

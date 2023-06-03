@@ -9,37 +9,109 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "custom/ar/ak12"
+			"model": "custom/guns/ar/ak12/default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "custom/ar/m4a1"
+			"model": "custom/guns/ar/ak12/default_reload"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "custom/ar/qbz95"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "custom/ar/m16"
+			"model": "custom/guns/ar/ak12/default_aim"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "custom/ar/asval/default"
+			"model": "custom/guns/ar/m4a1/default"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 10500
+				"custom_model_data": 6
 			},
-			"model": "custom/ar/asval/prismarin"
+			"model": "custom/guns/ar/m4a1/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/guns/ar/m4a1/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "custom/guns/ar/qbz95/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "custom/guns/ar/qbz95/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "custom/guns/ar/qbz95/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "custom/guns/ar/m16/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "custom/guns/ar/m16/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "custom/guns/ar/m16/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "custom/guns/ar/asval/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "custom/guns/ar/asval/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "custom/guns/ar/asval/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10017
+			},
+			"model": "custom/guns/ar/asval/skins/prismarin/prismarin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10018
+			},
+			"model": "custom/guns/ar/asval/skins/prismarin/prismarin_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10019
+			},
+			"model": "custom/guns/ar/asval/skins/prismarin/prismarin_aim"
 		}
 	]
 }

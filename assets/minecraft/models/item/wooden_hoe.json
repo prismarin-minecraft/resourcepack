@@ -9,49 +9,115 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "custom/pistol/tec9"
+			"model": "custom/guns/pistol/tec9/default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "custom/pistol/skorpion"
+			"model": "custom/guns/pistol/tec9/default_reload"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "custom/pistol/desert_eagle"
+			"model": "custom/guns/pistol/tec9/default_aim"
 		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "custom/pistol/glock17/default"
-		},
+
+
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "custom/pistol/glock17/default_reload"
+			"model": "custom/guns/pistol/skorpion/default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "custom/pistol/glock17/default_aim"
+			"model": "custom/guns/pistol/skorpion/default_reload"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "custom/pistol/usp/default"
+			"model": "custom/guns/pistol/skorpion/default_aim"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 10400
+				"custom_model_data": 9
 			},
-			"model": "custom/pistol/glock17/prismarin"
+			"model": "custom/guns/pistol/desert_eagle/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "custom/guns/pistol/desert_eagle/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "custom/guns/pistol/desert_eagle/default_aim"
+		},
+
+
+
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "custom/guns/pistol/glock17/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "custom/guns/pistol/glock17/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "custom/guns/pistol/glock17/default_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "custom/guns/pistol/usp/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "custom/guns/pistol/usp/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "custom/guns/pistol/usp/default_aim"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 10001
+			},
+			"model": "custom/guns/pistol/glock17/skins/prismarin/prismarin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10002
+			},
+			"model": "custom/guns/pistol/glock17/skins/prismarin/prismarin_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10003
+			},
+			"model": "custom/guns/pistol/glock17/skins/prismarin/prismarin_aim"
 		}
 	]
 }
