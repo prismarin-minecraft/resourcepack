@@ -1,236 +1,187 @@
 {
-    "shoot.ar": {
-      "sounds": [
-			"shoot/ar"
-		]
-    },
-    "shoot.grenadelauncher": {
-        "sounds": [
-              "shoot/grenadelauncher"
-          ]
-      },
-    "shoot.lmg": {
-        "sounds": [
-              "shoot/lmg"
-          ]
-      },
-      "shoot.sentry": {
-        "sounds": [
-              "shoot/sentry"
-          ]
-      },
-    "shoot.smg": {
-        "sounds": [
-              "shoot/smg"
-          ]
-      },
-      "shoot.minigun": {
-        "sounds": [
-              "shoot/minigun"
-          ]
-      },
-    "shoot.sniper": {
-        "sounds": [
-              "shoot/sniper"
-          ]
-      },
-      "railgun.shoot": {
-        "sounds": [
-              "railgun/shoot"
-          ]
-      },
-      "railgun.charge": {
-        "sounds": [
-              "railgun/charge"
-          ]
-      },
-    "shoot.pistol": {
-        "sounds": [
-              "shoot/pistol"
-          ]
-      },
-      "shoot.shotgun": {
-        "sounds": [
-              "shoot/shotgun"
-          ]
-      },
-      "grenade.explosion": {
-        "sounds": [
-              "throwable/explosion"
-          ]
-      },
-      "grenade.gas": {
-        "sounds": [
-              "throwable/gas"
-          ]
-      },
-      "grenade.flashbang": {
-        "sounds": [
-              "throwable/flashbang"
-          ]
-      },
-      "misc.lowammo": {
-        "sounds": [
-              "misc/lowammo"
-          ]
-      },
-      "airstrike.request": {
-        "sounds": [
-              "throwable/airstrike/airstrike_request"
-          ]
-      },
-      "airstrike.impact": {
-        "sounds": [
-              "throwable/airstrike/airstrike_impact1",
-              "throwable/airstrike/airstrike_impact2",
-              "throwable/airstrike/airstrike_impact3",
-              "throwable/airstrike/airstrike_impact4"
-          ]
-      },
-      "reload.ar.clipin": {
-        "sounds": [
-              "reload/ar_clipin"
-          ]
-      },
-      "reload.ar.clipout": {
-        "sounds": [
-              "reload/ar_clipout"
-          ]
-      },
-      "reload.pistol.clipin": {
-        "sounds": [
-              "reload/pistol_clipin"
-          ]
-      },
-      "reload.pistol.clipout": {
-        "sounds": [
-              "reload/pistol_clipout"
-          ]
-      },
-      "reload.sniper.clipin": {
-        "sounds": [
-              "reload/sniper_clipin"
-          ]
-      },
-      "reload.sniper.clipout": {
-        "sounds": [
-              "reload/sniper_clipout"
-          ]
-      },
-      "reload.shotgun.clipin": {
-        "sounds": [
-              "reload/shotgun_clipin"
-          ]
-      },
-      "reload.lmg.clipin": {
-        "sounds": [
-              "reload/lmg_clipin"
-          ]
-      },
-      "reload.lmg.clipout": {
-        "sounds": [
-              "reload/lmg_clipout"
-          ]
-      },
-      "reload.smg.clipin": {
-        "sounds": [
-              "reload/smg_clipin"
-          ]
-      },
-      "reload.smg.clipout": {
-        "sounds": [
-              "reload/smg_clipout"
-          ]
-      },
-      "medical.bandage": {
-        "sounds": [
-              "medical/bandage"
-          ]
-      },
-      "impact.hit": {
-        "sounds": [
-              "impact/hit"
-          ]
-      },
-      "impact.headshot": {
-        "sounds": [
-              "impact/headshot"
-          ]
-      },
-      "impact.cement": {
-        "sounds": [
-              "impact/cement"
-          ]
-      },
-      "impact.glass": {
-        "sounds": [
-              "impact/glass"
-          ]
-      },
-      "impact.tree": {
-        "sounds": [
-              "impact/tree"
-          ]
-      },
-      "music.ez4ence": {
-        "sounds": [
-              "music/ez4ence"
-          ]
-      },
-      "aim.sniper": {
-        "sounds": [
-              "aim/sniper"
-          ]
-      },
-      "aim.in": {
-        "sounds": [
-              "aim/aim_in"
-          ]
-      },
-      "aim.out": {
-        "sounds": [
-              "aim/aim_out"
-          ]
-      },
-      "uav": {
-        "sounds": [
-              "misc/uav"
-          ]
-      },
-      "equip.guns.ar": {
-        "sounds": [
-              "equip/guns/ar"
-          ]
-      },
-      "equip.guns.smg": {
-        "sounds": [
-              "equip/guns/smg"
-          ]
-      },
-      "equip.guns.lmg": {
-        "sounds": [
-              "equip/guns/lmg"
-          ]
-      },
-      "equip.guns.pistol": {
-        "sounds": [
-              "equip/guns/pistol"
-          ]
-      },
-      "equip.guns.sniper": {
-        "sounds": [
-              "equip/guns/sniper"
-          ]
-      },
-      "equip.guns.shotgun": {
-        "sounds": [
-              "equip/guns/shotgun"
-          ]
-      },
-      "equip.melee": {
-        "sounds": [
-              "equip/melee"
-          ]
-      }
-      
+  "shoot.ar": {
+    "sounds": ["shoot/ar"]
+  },
+  "shoot.grenadelauncher": {
+    "sounds": ["shoot/grenadelauncher"]
+  },
+  "shoot.lmg": {
+    "sounds": ["shoot/lmg"]
+  },
+  "shoot.sentry": {
+    "sounds": ["shoot/sentry"]
+  },
+  "shoot.smg": {
+    "sounds": ["shoot/smg"]
+  },
+  "shoot.minigun": {
+    "sounds": ["shoot/minigun"]
+  },
+  "shoot.sniper": {
+    "sounds": ["shoot/sniper"]
+  },
+  "railgun.shoot": {
+    "sounds": ["railgun/shoot"]
+  },
+  "railgun.charge": {
+    "sounds": ["railgun/charge"]
+  },
+  "shoot.pistol": {
+    "sounds": ["shoot/pistol"]
+  },
+  "shoot.shotgun": {
+    "sounds": ["shoot/shotgun"]
+  },
+  "grenade.explosion": {
+    "sounds": ["throwable/explosion"]
+  },
+  "grenade.gas": {
+    "sounds": ["throwable/gas"]
+  },
+  "grenade.flashbang": {
+    "sounds": ["throwable/flashbang"]
+  },
+  "misc.lowammo": {
+    "sounds": ["misc/lowammo"]
+  },
+  "airstrike.request": {
+    "sounds": ["throwable/airstrike/airstrike_request"]
+  },
+  "airstrike.impact": {
+    "sounds": [
+      "throwable/airstrike/airstrike_impact1",
+      "throwable/airstrike/airstrike_impact2",
+      "throwable/airstrike/airstrike_impact3",
+      "throwable/airstrike/airstrike_impact4"
+    ]
+  },
+  "reload.ar.clipin": {
+    "sounds": ["reload/ar_clipin"]
+  },
+  "reload.ar.clipout": {
+    "sounds": ["reload/ar_clipout"]
+  },
+  "reload.pistol.clipin": {
+    "sounds": ["reload/pistol_clipin"]
+  },
+  "reload.pistol.clipout": {
+    "sounds": ["reload/pistol_clipout"]
+  },
+  "reload.sniper.clipin": {
+    "sounds": ["reload/sniper_clipin"]
+  },
+  "reload.sniper.clipout": {
+    "sounds": ["reload/sniper_clipout"]
+  },
+  "reload.shotgun.clipin": {
+    "sounds": ["reload/shotgun_clipin"]
+  },
+  "reload.lmg.clipin": {
+    "sounds": ["reload/lmg_clipin"]
+  },
+  "reload.lmg.clipout": {
+    "sounds": ["reload/lmg_clipout"]
+  },
+  "reload.smg.clipin": {
+    "sounds": ["reload/smg_clipin"]
+  },
+  "reload.smg.clipout": {
+    "sounds": ["reload/smg_clipout"]
+  },
+  "medical.bandage": {
+    "sounds": ["medical/bandage"]
+  },
+  "impact.hit": {
+    "sounds": ["impact/hit"]
+  },
+  "impact.headshot": {
+    "sounds": ["impact/headshot"]
+  },
+  "impact.cement": {
+    "sounds": ["impact/cement"]
+  },
+  "impact.glass": {
+    "sounds": ["impact/glass"]
+  },
+  "impact.tree": {
+    "sounds": ["impact/tree"]
+  },
+  "music.ez4ence": {
+    "sounds": ["music/ez4ence"]
+  },
+  "aim.sniper": {
+    "sounds": ["aim/sniper"]
+  },
+  "aim.in": {
+    "sounds": ["aim/aim_in"]
+  },
+  "aim.out": {
+    "sounds": ["aim/aim_out"]
+  },
+  "uav": {
+    "sounds": ["misc/uav"]
+  },
+  "equip.guns.ar": {
+    "sounds": ["equip/guns/ar"]
+  },
+  "equip.guns.smg": {
+    "sounds": ["equip/guns/smg"]
+  },
+  "equip.guns.lmg": {
+    "sounds": ["equip/guns/lmg"]
+  },
+  "equip.guns.pistol": {
+    "sounds": ["equip/guns/pistol"]
+  },
+  "equip.guns.sniper": {
+    "sounds": ["equip/guns/sniper"]
+  },
+  "equip.guns.shotgun": {
+    "sounds": ["equip/guns/shotgun"]
+  },
+  "equip.melee": {
+    "sounds": ["equip/melee"]
+  },
+  "littleroom.kindletron3.death": {
+    "sounds": ["mobs/kindletron2/death"]
+  },
+  "littleroom.kindletron3.glide": {
+    "sounds": ["mobs/kindletron2/glide"]
+  },
+  "littleroom.kindletron3.impact01": {
+    "sounds": ["mobs/kindletron2/impact01"]
+  },
+  "littleroom.kindletron3.impact02": {
+    "sounds": ["mobs/kindletron2/impact02"]
+  },
+  "littleroom.kindletron3.impact03": {
+    "sounds": ["mobs/kindletron2/impact03"]
+  },
+  "littleroom.kindletron3.impact04": {
+    "sounds": ["mobs/kindletron2/impact04"]
+  },
+  "littleroom.kindletron3.kindletron_idle_40ticks": {
+    "sounds": ["mobs/kindletron2/kindletron_idle_40ticks"]
+  },
+  "littleroom.kindletron3.saw": {
+    "sounds": ["mobs/kindletron2/saw"]
+  },
+  "littleroom.kindletron3.swing": {
+    "sounds": ["mobs/kindletron2/swing"]
+  },
+  "littleroom.kindletron3.sword_swing01": {
+    "sounds": ["mobs/kindletron2/sword_swing01"]
+  },
+  "littleroom.kindletron3.sword_swing02": {
+    "sounds": ["mobs/kindletron2/sword_swing02"]
+  },
+  "littleroom.kindletron3.sword_swing03": {
+    "sounds": ["mobs/kindletron2/sword_swing03"]
+  },
+  "littleroom.kindletron3.sword_swing04": {
+    "sounds": ["mobs/kindletron2/sword_swing04"]
+  },
+  "littleroom.kindletron3.land": {
+    "sounds": ["mobs/kindletron2/land"]
   }
+}
