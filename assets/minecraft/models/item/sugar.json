@@ -1,0 +1,39 @@
+{
+    "credit": "Prismarin",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/sugar"
+    },
+    "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "custom/powerup/base"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "custom/powerup/speed"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/powerup/double_jump"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/powerup/ammo_box"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/powerup/heal"
+		}
+	]
+}
