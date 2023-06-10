@@ -55,6 +55,34 @@
       "throwable/airstrike/airstrike_impact4"
     ]
   },
+  "game.death": {
+    "sounds": [
+      "misc/death"
+    ]
+  },
+  "keypad.fail": {
+    "sounds": [
+      "keypad/fail"
+    ]
+  },
+  "keypad.open": {
+    "sounds": [
+      "keypad/open"
+    ]
+  },
+  "keypad.success": {
+    "sounds": [
+      "keypad/success"
+    ]
+  },
+  "keypad.press": {
+    "sounds": [
+      "keypad/press1",
+      "keypad/press2",
+      "keypad/press3",
+      "keypad/press4"
+    ]
+  },
   "reload.ar.clipin": {
     "sounds": ["reload/ar_clipin"]
   },
