@@ -145,6 +145,7 @@
   "ambience.wind": {
     "sounds": ["ambience/wind"]
   },
+  
   "littleroom.kindletron3.death": {
     "sounds": ["mobs/kindletron2/death"]
   },
