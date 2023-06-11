@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "gui/keycode/keycode_9",
-		"particle": "gui/keycode/keycode_9"
+		"0": "item/misc/keycode/keycode_9",
+		"particle": "item/misc/keycode/keycode_9"
 	},
 	"elements": [
 		{

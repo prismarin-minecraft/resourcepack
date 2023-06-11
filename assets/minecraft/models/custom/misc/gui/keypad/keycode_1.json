@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "gui/keycode/keycode_1",
-		"particle": "gui/keycode/keycode_1"
+		"0": "item/misc/keycode/keycode_1",
+		"particle": "item/misc/keycode/keycode_1"
 	},
 	"elements": [
 		{
@@ -10,7 +10,7 @@
 			"to": [16, 16, 0.01],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 0.01, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0.01, 16], "texture": "#0"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"west": {"uv": [0, 0, 0.01, 16], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 0.01], "texture": "#0"},
@@ -18,6 +18,5 @@
 			}
 		}
 	],
-	"gui_light": "front",
-	"display": {}
+	"gui_light": "front"
 }
