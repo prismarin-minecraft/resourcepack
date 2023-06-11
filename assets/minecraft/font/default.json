@@ -19,6 +19,7 @@
         {"type": "bitmap", "file": "minecraft:gui/battlepass.png","ascent": 13,"height": 139,"chars": ["ㇺ"]},
 
         {"type": "bitmap", "file": "minecraft:gui/fabricator.png","ascent": 13,"height": 139,"chars": ["字"]},
+        {"type": "bitmap", "file": "minecraft:gui/keycode/lock.png","ascent": 13,"height": 139,"chars": ["从"]},
         {"type": "bitmap", "file": "minecraft:gui/generator.png","ascent": 13,"height": 139,"chars": ["起"]},
         {"type": "bitmap", "file": "minecraft:gui/machine_upgrades.png","ascent": 13,"height": 139,"chars": ["汉"]},
         {"type": "bitmap", "file": "minecraft:gui/garden_cloche.png","ascent": 13,"height": 139,"chars": ["在"]},
@@ -36,5 +37,7 @@
         { "type": "bitmap", "file": "minecraft:gui/hardpoint.png", "ascent": 45, "height": 139, "chars": [ "以" ] },
 
         { "type": "bitmap", "file": "minecraft:gui/titles/flash_bang.png", "ascent": 500, "height": 1000, "chars": [ "語" ] }
+
+        
     ]
 }
