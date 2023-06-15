@@ -2,7 +2,7 @@
     "credit": "Prismarin",
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/redstone_torch"
+        "layer0": "item/apple"
     },
     "overrides": [
 		{
