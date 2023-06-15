@@ -60,6 +60,16 @@
       "misc/death"
     ]
   },
+  "door.warning": {
+    "sounds": [
+      "door/warning"
+    ]
+  },
+  "door.open": {
+    "sounds": [
+      "door/open"
+    ]
+  },
   "keypad.fail": {
     "sounds": [
       "keypad/fail"
