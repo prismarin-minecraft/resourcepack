@@ -64,12 +64,6 @@
 				"custom_model_data": 10
 			},
 			"model": "custom/misc/gui/keypad/keycode_0"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 11
-			},
-			"model": "custom/misc/keypad"
 		}
 	]
 }

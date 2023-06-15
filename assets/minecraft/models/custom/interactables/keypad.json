@@ -2,8 +2,8 @@
 	"credit": "Made by FeignedMars4438 (Aidennn#0682 on discord)",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/misc/keypad",
-		"particle": "item/misc/keypad"
+		"0": "item/interactables/keypad",
+		"particle": "item/interactables/keypad"
 	},
 	"elements": [
 		
