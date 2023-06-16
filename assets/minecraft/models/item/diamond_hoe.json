@@ -1,8 +1,8 @@
 {
     "credit": "Prismarin",
-    "parent": "item/generated",
+    "parent": "item/handheld",
     "textures": {
-        "layer0": "item/stone_hoe"
+        "layer0": "item/diamond_hoe"
     },
     "overrides": [
 		{
@@ -53,6 +53,18 @@
 				"custom_model_data": 14
 			},
 			"model": "custom/guns/sniper/m107/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "custom/guns/sniper/railgun/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "custom/guns/sniper/railgun/default_reload"
 		},
 		{
 			"predicate": {

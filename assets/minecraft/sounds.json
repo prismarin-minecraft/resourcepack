@@ -26,6 +26,9 @@
   "railgun.charge": {
     "sounds": ["railgun/charge"]
   },
+  "railgunrifle.shoot": {
+    "sounds": ["shoot/railgun"]
+  },
   "shoot.pistol": {
     "sounds": ["shoot/pistol"]
   },
