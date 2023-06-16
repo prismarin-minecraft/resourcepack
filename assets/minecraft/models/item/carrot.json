@@ -16,6 +16,18 @@
 				"custom_model_data": 2
 			},
 			"model": "custom/furniture/chair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/furniture/camera/stand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/furniture/camera/top"
 		}
 	]
 }
