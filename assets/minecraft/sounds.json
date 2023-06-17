@@ -186,6 +186,9 @@
   "ambience.wind": {
     "sounds": ["ambience/wind"]
   },
+  "unlock": {
+    "sounds": ["misc/unlock"]
+  },
   
   "littleroom.kindletron3.death": {
     "sounds": ["mobs/kindletron2/death"]
