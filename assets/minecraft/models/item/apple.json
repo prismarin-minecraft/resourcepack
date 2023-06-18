@@ -16,6 +16,12 @@
 				"custom_model_data": 2
 			},
 			"model": "custom/interactables/button"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "custom/misc/bunker_note"
 		}
 	]
 }
