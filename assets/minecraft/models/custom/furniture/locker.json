@@ -2,7 +2,7 @@
 	"credit": "Made by Aiden (feignedmars4438 on discord)",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "item/locker/furniture/locker_texture",
+		"0": "item/furniture/locker/locker_texture",
 		"particle": "item/furniture/locker/locker_texture"
 	},
 	"elements": [
