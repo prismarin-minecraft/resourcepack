@@ -58,6 +58,12 @@
 				"custom_model_data": 9
 			},
 			"model": "custom/furniture/projector"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "custom/furniture/control"
 		}
 	]
 }
