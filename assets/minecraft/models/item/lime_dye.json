@@ -64,6 +64,12 @@
 				"custom_model_data": 10
 			},
 			"model": "custom/furniture/control"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "custom/furniture/controlMC"
 		}
 	]
 }

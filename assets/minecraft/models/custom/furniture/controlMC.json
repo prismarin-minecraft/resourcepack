@@ -3,6 +3,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "item/furniture/desk/multimonitor",
+		"1": "item/furniture/desk/mctexture",
 		"particle": "item/furniture/desk/multimonitor"
 	},
 	"elements": [
@@ -186,6 +187,19 @@
 				"west": {"uv": [0.125, 10.25, 0.1875, 11.125], "texture": "#0"},
 				"up": {"uv": [11.625, 4.0625, 9.75, 4], "texture": "#0"},
 				"down": {"uv": [11.625, 4.125, 9.75, 4.1875], "texture": "#0"}
+			}
+		},
+		{
+			"from": [16.47442, 18.896, 9.63664],
+			"to": [31.25842, 25.179, 9.63664],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [23.86642, 22, 9.63664]},
+			"faces": {
+				"north": {"uv": [16, 16, -0.47392, 0], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [16, 16, -0.01734, 0], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [16, 16, -0.86694, 0], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [16, 16, -0.00578, 0], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [-1.075, 16, 16, 0], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [-0.17339, 0, 16, 16], "rotation": 180, "texture": "#1"}
 			}
 		},
 		{
@@ -1254,9 +1268,8 @@
 			"name": "group",
 			"origin": [16, 0, 5.31],
 			"color": 0,
-			"children": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+			"children": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 		},
-		26,
 		27,
 		28,
 		29,
@@ -1321,6 +1334,7 @@
 		88,
 		89,
 		90,
-		91
+		91,
+		92
 	]
 }
