@@ -3,7 +3,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "item/furniture/desk/multimonitor",
-		"1": "item/furniture/desk/mctexture",
+		"1": "item/furniture/desk/minecraft_screen",
 		"particle": "item/furniture/desk/multimonitor"
 	},
 	"elements": [

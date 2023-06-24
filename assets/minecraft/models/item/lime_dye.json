@@ -69,7 +69,7 @@
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "custom/furniture/controlMC"
+			"model": "custom/furniture/control_mc"
 		}
 	]
 }
