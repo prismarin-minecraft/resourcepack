@@ -25,6 +25,7 @@
         {"type": "bitmap", "file": "minecraft:gui/garden_cloche.png","ascent": 13,"height": 139,"chars": ["在"]},
 
         { "type": "bitmap", "file": "minecraft:gui/minigames.png", "ascent": 37, "height": 150, "chars": [ "十" ] },
+        { "type": "bitmap", "file": "minecraft:gui/recycler.png", "ascent": 37, "height": 150, "chars": [ "会" ] },
         { "type": "bitmap", "file": "minecraft:gui/loadout.png", "ascent": 37, "height": 150, "chars": [ "日" ] },
 
         { "type": "bitmap", "file": "minecraft:gui/perks/escape.png", "ascent": 37, "height": 150, "chars": [ "败" ] },

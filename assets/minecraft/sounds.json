@@ -189,6 +189,15 @@
   "unlock": {
     "sounds": ["misc/unlock"]
   },
+  "recycler": {
+    "sounds": ["recycler/recycler"]
+  },
+  "recycler.on": {
+    "sounds": ["recycler/recycler_on"]
+  },
+  "recycler.off": {
+    "sounds": ["recycler/recycler_off"]
+  },
   
   "littleroom.kindletron3.death": {
     "sounds": ["mobs/kindletron2/death"]
