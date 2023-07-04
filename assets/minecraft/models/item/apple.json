@@ -19,9 +19,15 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 3
+				"custom_model_data": 4
 			},
-			"model": "custom/misc/bunker_note"
+			"model": "custom/interactables/keylock"
+		},
+            {
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/interactables/key"
 		}
 	]
 }

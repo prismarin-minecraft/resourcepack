@@ -4,325 +4,646 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "custom/mobs/kindletron2/pelvis"
+      "model": "custom/mobs/concussion/concussionring2"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "custom/mobs/kindletron2/right_leg"
+      "model": "custom/mobs/concussion/concussionring3"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "custom/mobs/kindletron2/right_foot"
+      "model": "custom/mobs/giantzombie/torso"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "custom/mobs/kindletron2/left_leg"
+      "model": "custom/mobs/giantzombie/head"
     },
     {
       "predicate": { "custom_model_data": 5 },
-      "model": "custom/mobs/kindletron2/left_foot"
+      "model": "custom/mobs/giantzombie/jaw"
     },
     {
       "predicate": { "custom_model_data": 6 },
-      "model": "custom/mobs/kindletron2/torso"
+      "model": "custom/mobs/giantzombie/rightarm"
     },
     {
       "predicate": { "custom_model_data": 7 },
-      "model": "custom/mobs/kindletron2/head"
+      "model": "custom/mobs/giantzombie/rightforearm"
     },
     {
       "predicate": { "custom_model_data": 8 },
-      "model": "custom/mobs/kindletron2/right_arm"
+      "model": "custom/mobs/giantzombie/righthand"
     },
     {
       "predicate": { "custom_model_data": 9 },
-      "model": "custom/mobs/kindletron2/right_forearm"
+      "model": "custom/mobs/giantzombie/leftarm"
     },
     {
       "predicate": { "custom_model_data": 10 },
-      "model": "custom/mobs/kindletron2/blade"
+      "model": "custom/mobs/giantzombie/leftforearm"
     },
     {
       "predicate": { "custom_model_data": 11 },
-      "model": "custom/mobs/kindletron2/left_arm"
+      "model": "custom/mobs/giantzombie/lefthand"
     },
     {
       "predicate": { "custom_model_data": 12 },
-      "model": "custom/mobs/kindletron2/left_forearm"
+      "model": "custom/mobs/giantzombie/rightfoot"
     },
     {
       "predicate": { "custom_model_data": 13 },
-      "model": "custom/mobs/kindletron2/left_hand"
+      "model": "custom/mobs/giantzombie/rightleg"
     },
     {
       "predicate": { "custom_model_data": 14 },
-      "model": "custom/mobs/kindletron2/finger_1"
+      "model": "custom/mobs/giantzombie/leftfoot"
     },
     {
       "predicate": { "custom_model_data": 15 },
-      "model": "custom/mobs/kindletron2/finger_2"
+      "model": "custom/mobs/giantzombie/leftleg"
     },
     {
       "predicate": { "custom_model_data": 16 },
-      "model": "custom/mobs/kindletron2/damaged/torso_damage_1"
+      "model": "custom/mobs/kindletron2/pelvis"
     },
     {
       "predicate": { "custom_model_data": 17 },
-      "model": "custom/mobs/kindletron2/damaged/right_arm_damage_1"
+      "model": "custom/mobs/kindletron2/right_leg"
     },
     {
       "predicate": { "custom_model_data": 18 },
-      "model": "custom/mobs/kindletron2/damaged/torso_damage_2"
+      "model": "custom/mobs/kindletron2/right_foot"
     },
     {
       "predicate": { "custom_model_data": 19 },
-      "model": "custom/mobs/kindletron2/damaged/torso_damage_3"
+      "model": "custom/mobs/kindletron2/left_leg"
     },
     {
       "predicate": { "custom_model_data": 20 },
-      "model": "custom/mobs/kindletron2/damaged/torso_glide"
+      "model": "custom/mobs/kindletron2/left_foot"
     },
     {
       "predicate": { "custom_model_data": 21 },
-      "model": "custom/mobs/torotoro/body"
+      "model": "custom/mobs/kindletron2/torso"
     },
     {
       "predicate": { "custom_model_data": 22 },
-      "model": "custom/mobs/torotoro/arti_case_left"
+      "model": "custom/mobs/kindletron2/head"
     },
     {
       "predicate": { "custom_model_data": 23 },
-      "model": "custom/mobs/torotoro/arti_case_right"
+      "model": "custom/mobs/kindletron2/right_arm"
     },
     {
       "predicate": { "custom_model_data": 24 },
-      "model": "custom/mobs/torotoro/heat_dispenser"
+      "model": "custom/mobs/kindletron2/right_forearm"
     },
     {
       "predicate": { "custom_model_data": 25 },
-      "model": "custom/mobs/torotoro/core"
+      "model": "custom/mobs/kindletron2/blade"
     },
     {
       "predicate": { "custom_model_data": 26 },
-      "model": "custom/mobs/torotoro/leftarm"
+      "model": "custom/mobs/kindletron2/left_arm"
     },
     {
       "predicate": { "custom_model_data": 27 },
-      "model": "custom/mobs/torotoro/leftfront_arm"
+      "model": "custom/mobs/kindletron2/left_forearm"
     },
     {
       "predicate": { "custom_model_data": 28 },
-      "model": "custom/mobs/torotoro/left_fist"
+      "model": "custom/mobs/kindletron2/left_hand"
     },
     {
       "predicate": { "custom_model_data": 29 },
-      "model": "custom/mobs/torotoro/rightarm"
+      "model": "custom/mobs/kindletron2/finger_1"
     },
     {
       "predicate": { "custom_model_data": 30 },
-      "model": "custom/mobs/torotoro/right_fist"
+      "model": "custom/mobs/kindletron2/finger_2"
     },
     {
       "predicate": { "custom_model_data": 31 },
-      "model": "custom/mobs/torotoro/rightfront_arm"
+      "model": "custom/mobs/kindletron2/damaged/torso_damage_1"
     },
     {
       "predicate": { "custom_model_data": 32 },
-      "model": "custom/mobs/torotoro/hip"
+      "model": "custom/mobs/kindletron2/damaged/right_arm_damage_1"
     },
     {
       "predicate": { "custom_model_data": 33 },
-      "model": "custom/mobs/torotoro/leftleg"
+      "model": "custom/mobs/kindletron2/damaged/torso_damage_2"
     },
     {
       "predicate": { "custom_model_data": 34 },
-      "model": "custom/mobs/torotoro/leftfoot"
+      "model": "custom/mobs/kindletron2/damaged/torso_damage_3"
     },
     {
       "predicate": { "custom_model_data": 35 },
-      "model": "custom/mobs/torotoro/left_fire"
+      "model": "custom/mobs/kindletron2/damaged/torso_glide"
     },
     {
       "predicate": { "custom_model_data": 36 },
-      "model": "custom/mobs/torotoro/left_frontleg"
+      "model": "custom/mobs/torotoro/body"
     },
     {
       "predicate": { "custom_model_data": 37 },
-      "model": "custom/mobs/torotoro/rightleg"
+      "model": "custom/mobs/torotoro/arti_case_left"
     },
     {
       "predicate": { "custom_model_data": 38 },
-      "model": "custom/mobs/torotoro/right_fire"
+      "model": "custom/mobs/torotoro/arti_case_right"
     },
     {
       "predicate": { "custom_model_data": 39 },
-      "model": "custom/mobs/torotoro/rightfoot"
+      "model": "custom/mobs/torotoro/heat_dispenser"
     },
     {
       "predicate": { "custom_model_data": 40 },
-      "model": "custom/mobs/torotoro/right_frontleg"
+      "model": "custom/mobs/torotoro/core"
     },
     {
       "predicate": { "custom_model_data": 41 },
-      "model": "custom/mobs/zaku/zaku/head"
+      "model": "custom/mobs/torotoro/leftarm"
     },
     {
       "predicate": { "custom_model_data": 42 },
-      "model": "custom/mobs/zaku/zaku/core"
+      "model": "custom/mobs/torotoro/leftfront_arm"
     },
     {
       "predicate": { "custom_model_data": 43 },
-      "model": "custom/mobs/zaku/zaku/right_up"
+      "model": "custom/mobs/torotoro/left_fist"
     },
     {
       "predicate": { "custom_model_data": 44 },
-      "model": "custom/mobs/zaku/zaku/right_arm"
+      "model": "custom/mobs/torotoro/rightarm"
     },
     {
       "predicate": { "custom_model_data": 45 },
-      "model": "custom/mobs/zaku/zaku/right_arm_down"
+      "model": "custom/mobs/torotoro/right_fist"
     },
     {
       "predicate": { "custom_model_data": 46 },
-      "model": "custom/mobs/zaku/zaku/right_hand"
+      "model": "custom/mobs/torotoro/rightfront_arm"
     },
     {
       "predicate": { "custom_model_data": 47 },
-      "model": "custom/mobs/zaku/zaku/axe1"
+      "model": "custom/mobs/torotoro/hip"
     },
     {
       "predicate": { "custom_model_data": 48 },
-      "model": "custom/mobs/zaku/zaku/left_up"
+      "model": "custom/mobs/torotoro/leftleg"
     },
     {
       "predicate": { "custom_model_data": 49 },
-      "model": "custom/mobs/zaku/zaku/left_arm"
+      "model": "custom/mobs/torotoro/leftfoot"
     },
     {
       "predicate": { "custom_model_data": 50 },
-      "model": "custom/mobs/zaku/zaku/left_arm_down"
+      "model": "custom/mobs/torotoro/left_fire"
     },
     {
       "predicate": { "custom_model_data": 51 },
-      "model": "custom/mobs/zaku/zaku/left_hand"
+      "model": "custom/mobs/torotoro/left_frontleg"
     },
     {
       "predicate": { "custom_model_data": 52 },
-      "model": "custom/mobs/zaku/zaku/axe2"
+      "model": "custom/mobs/torotoro/rightleg"
     },
     {
       "predicate": { "custom_model_data": 53 },
-      "model": "custom/mobs/zaku/zaku/body_down"
+      "model": "custom/mobs/torotoro/right_fire"
     },
-    { "predicate": { "custom_model_data": 54 }, "model": "custom/mobs/zaku/zaku/1" },
-    { "predicate": { "custom_model_data": 55 }, "model": "custom/mobs/zaku/zaku/2" },
-    { "predicate": { "custom_model_data": 56 }, "model": "custom/mobs/zaku/zaku/3" },
+    {
+      "predicate": { "custom_model_data": 54 },
+      "model": "custom/mobs/torotoro/rightfoot"
+    },
+    {
+      "predicate": { "custom_model_data": 55 },
+      "model": "custom/mobs/torotoro/right_frontleg"
+    },
+    {
+      "predicate": { "custom_model_data": 56 },
+      "model": "custom/mobs/zahar/zahar/torso"
+    },
     {
       "predicate": { "custom_model_data": 57 },
-      "model": "custom/mobs/zaku/zaku/bone"
+      "model": "custom/mobs/zahar/zahar/string"
     },
     {
       "predicate": { "custom_model_data": 58 },
-      "model": "custom/mobs/zaku/zaku/body_up"
+      "model": "custom/mobs/zahar/zahar/potion"
     },
     {
       "predicate": { "custom_model_data": 59 },
-      "model": "custom/mobs/zaku/zaku_lore/bone3"
+      "model": "custom/mobs/zahar/zahar/potion2"
     },
     {
       "predicate": { "custom_model_data": 60 },
-      "model": "custom/mobs/zaku/zaku_lore/bone"
+      "model": "custom/mobs/zahar/zahar/coattail"
     },
     {
       "predicate": { "custom_model_data": 61 },
-      "model": "custom/mobs/zaku/zaku_lore/bone2"
+      "model": "custom/mobs/zahar/zahar/right_leg"
     },
     {
       "predicate": { "custom_model_data": 62 },
-      "model": "custom/mobs/zaku/zaku_lore/bone4"
+      "model": "custom/mobs/zahar/zahar/right_shin"
     },
     {
       "predicate": { "custom_model_data": 63 },
-      "model": "custom/mobs/zaku/zaku_lore1/bone3"
+      "model": "custom/mobs/zahar/zahar/right_foot"
     },
     {
       "predicate": { "custom_model_data": 64 },
-      "model": "custom/mobs/zaku/zaku_lore1/bone"
+      "model": "custom/mobs/zahar/zahar/satchel"
     },
     {
       "predicate": { "custom_model_data": 65 },
-      "model": "custom/mobs/zaku/zaku_lore1/bone2"
+      "model": "custom/mobs/zahar/zahar/left_leg"
     },
     {
       "predicate": { "custom_model_data": 66 },
-      "model": "custom/mobs/zaku/zaku_lore1/bone4"
+      "model": "custom/mobs/zahar/zahar/left_shin"
     },
     {
       "predicate": { "custom_model_data": 67 },
-      "model": "custom/mobs/zaku/zaku_lore2/bone3"
+      "model": "custom/mobs/zahar/zahar/left_foot"
     },
     {
       "predicate": { "custom_model_data": 68 },
-      "model": "custom/mobs/zaku/zaku_lore2/bone"
+      "model": "custom/mobs/zahar/zahar/left_arm"
     },
     {
       "predicate": { "custom_model_data": 69 },
-      "model": "custom/mobs/zaku/zaku_lore2/bone2"
+      "model": "custom/mobs/zahar/zahar/left_forearm"
     },
     {
       "predicate": { "custom_model_data": 70 },
-      "model": "custom/mobs/zaku/zaku_lore2/bone4"
+      "model": "custom/mobs/zahar/zahar/right_arm"
     },
     {
       "predicate": { "custom_model_data": 71 },
-      "model": "custom/mobs/zaku/zaku_mis/f1"
+      "model": "custom/mobs/zahar/zahar/arm_tube"
     },
     {
       "predicate": { "custom_model_data": 72 },
-      "model": "custom/mobs/zaku/zaku_mised/f1"
+      "model": "custom/mobs/zahar/zahar/right_forearm"
     },
     {
       "predicate": { "custom_model_data": 73 },
-      "model": "custom/mobs/zaku/zaku_mised/f2"
+      "model": "custom/mobs/zahar/zahar/right_hand"
     },
     {
       "predicate": { "custom_model_data": 74 },
-      "model": "custom/mobs/zaku/zaku_mised/f3"
+      "model": "custom/mobs/zahar/zahar/finger1"
     },
     {
       "predicate": { "custom_model_data": 75 },
-      "model": "custom/mobs/zaku/zaku_mised/f4"
+      "model": "custom/mobs/zahar/zahar/finger4"
     },
     {
       "predicate": { "custom_model_data": 76 },
-      "model": "custom/mobs/zaku/zaku_mised/f5"
+      "model": "custom/mobs/zahar/zahar/finger2"
     },
     {
       "predicate": { "custom_model_data": 77 },
-      "model": "custom/mobs/zaku/zaku_mised/f6"
+      "model": "custom/mobs/zahar/zahar/finger3"
     },
     {
       "predicate": { "custom_model_data": 78 },
-      "model": "custom/mobs/zaku/zaku_mised/f7"
+      "model": "custom/mobs/zahar/zahar/head"
     },
     {
       "predicate": { "custom_model_data": 79 },
-      "model": "custom/mobs/zaku/zaku_mised/f8"
+      "model": "custom/mobs/zahar/zahar_abomination/link2"
     },
     {
       "predicate": { "custom_model_data": 80 },
-      "model": "custom/mobs/zaku/zaku_natk1/body"
+      "model": "custom/mobs/zahar/zahar_abomination/link1"
     },
     {
       "predicate": { "custom_model_data": 81 },
-      "model": "custom/mobs/zaku/zaku_natk2/body"
+      "model": "custom/mobs/zahar/zahar_abomination/torso"
     },
     {
       "predicate": { "custom_model_data": 82 },
-      "model": "custom/mobs/zaku/zaku_natk3/body"
+      "model": "custom/mobs/zahar/zahar_abomination/head"
     },
     {
       "predicate": { "custom_model_data": 83 },
+      "model": "custom/mobs/zahar/zahar_abomination/right_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 84 },
+      "model": "custom/mobs/zahar/zahar_abomination/right_forearm"
+    },
+    {
+      "predicate": { "custom_model_data": 85 },
+      "model": "custom/mobs/zahar/zahar_abomination/finger"
+    },
+    {
+      "predicate": { "custom_model_data": 86 },
+      "model": "custom/mobs/zahar/zahar_abomination/finger2"
+    },
+    {
+      "predicate": { "custom_model_data": 87 },
+      "model": "custom/mobs/zahar/zahar_abomination/finger3"
+    },
+    {
+      "predicate": { "custom_model_data": 88 },
+      "model": "custom/mobs/zahar/zahar_abomination/finger4"
+    },
+    {
+      "predicate": { "custom_model_data": 89 },
+      "model": "custom/mobs/zahar/zahar_abomination/left_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 90 },
+      "model": "custom/mobs/zahar/zahar_abomination/left_forearm"
+    },
+    {
+      "predicate": { "custom_model_data": 91 },
+      "model": "custom/mobs/zahar/zahar_abomination/finger5"
+    },
+    {
+      "predicate": { "custom_model_data": 92 },
+      "model": "custom/mobs/zahar/zahar_abomination/finger6"
+    },
+    {
+      "predicate": { "custom_model_data": 93 },
+      "model": "custom/mobs/zahar/zahar_abomination/finger7"
+    },
+    {
+      "predicate": { "custom_model_data": 94 },
+      "model": "custom/mobs/zahar/zahar_abomination/finger8"
+    },
+    {
+      "predicate": { "custom_model_data": 95 },
+      "model": "custom/mobs/zahar/zahar_abomination/bubo"
+    },
+    {
+      "predicate": { "custom_model_data": 96 },
+      "model": "custom/mobs/zahar/zahar_abomination/bubo2"
+    },
+    {
+      "predicate": { "custom_model_data": 97 },
+      "model": "custom/mobs/zahar/zahar_abomination/bubo3"
+    },
+    {
+      "predicate": { "custom_model_data": 98 },
+      "model": "custom/mobs/zahar/zahar_abomination_base/bubo4"
+    },
+    {
+      "predicate": { "custom_model_data": 99 },
+      "model": "custom/mobs/zahar/zahar_abomination_base/base"
+    },
+    {
+      "predicate": { "custom_model_data": 100 },
+      "model": "custom/mobs/zahar/zahar_abomination_parts/left_forearm"
+    },
+    {
+      "predicate": { "custom_model_data": 101 },
+      "model": "custom/mobs/zahar/zahar_circle/circle_2"
+    },
+    {
+      "predicate": { "custom_model_data": 102 },
+      "model": "custom/mobs/zahar/zahar_circle/circle_1"
+    },
+    {
+      "predicate": { "custom_model_data": 103 },
+      "model": "custom/mobs/zahar/zahar_metal/bigpiece"
+    },
+    {
+      "predicate": { "custom_model_data": 104 },
+      "model": "custom/mobs/zahar/zahar_metal/piece"
+    },
+    {
+      "predicate": { "custom_model_data": 105 },
+      "model": "custom/mobs/zahar/zahar_parts/left_forearm_tonic"
+    },
+    {
+      "predicate": { "custom_model_data": 106 },
+      "model": "custom/mobs/zahar/zahar_parts/left_forearm_potion"
+    },
+    {
+      "predicate": { "custom_model_data": 107 },
+      "model": "custom/mobs/zahar/zahar_parts/satchel"
+    },
+    {
+      "predicate": { "custom_model_data": 108 },
+      "model": "custom/mobs/zahar/zahar_parts/empty"
+    },
+    {
+      "predicate": { "custom_model_data": 109 },
+      "model": "custom/mobs/zahar/zahar_parts/bigpiece"
+    },
+    {
+      "predicate": { "custom_model_data": 110 },
+      "model": "custom/mobs/zahar/zahar_parts/piece"
+    },
+    {
+      "predicate": { "custom_model_data": 111 },
+      "model": "custom/mobs/zahar/zahar_poisonfx/1"
+    },
+    {
+      "predicate": { "custom_model_data": 112 },
+      "model": "custom/mobs/zahar/zahar_poisonfx/2"
+    },
+    {
+      "predicate": { "custom_model_data": 113 },
+      "model": "custom/mobs/zahar/zahar_poisonfx/3"
+    },
+    {
+      "predicate": { "custom_model_data": 114 },
+      "model": "custom/mobs/zahar/zahar_poisonfx/4"
+    },
+    {
+      "predicate": { "custom_model_data": 115 },
+      "model": "custom/mobs/zahar/zahar_potion/potion"
+    },
+    {
+      "predicate": { "custom_model_data": 116 },
+      "model": "custom/mobs/zahar/zahar_tumor/part2"
+    },
+    {
+      "predicate": { "custom_model_data": 117 },
+      "model": "custom/mobs/zahar/zahar_tumor/part1"
+    },
+    {
+      "predicate": { "custom_model_data": 118 },
+      "model": "custom/mobs/zahar/zahar_tumor/sac"
+    },
+    {
+      "predicate": { "custom_model_data": 119 },
+      "model": "custom/mobs/zaku/zaku/head"
+    },
+    {
+      "predicate": { "custom_model_data": 120 },
+      "model": "custom/mobs/zaku/zaku/core"
+    },
+    {
+      "predicate": { "custom_model_data": 121 },
+      "model": "custom/mobs/zaku/zaku/right_up"
+    },
+    {
+      "predicate": { "custom_model_data": 122 },
+      "model": "custom/mobs/zaku/zaku/right_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 123 },
+      "model": "custom/mobs/zaku/zaku/right_arm_down"
+    },
+    {
+      "predicate": { "custom_model_data": 124 },
+      "model": "custom/mobs/zaku/zaku/right_hand"
+    },
+    {
+      "predicate": { "custom_model_data": 125 },
+      "model": "custom/mobs/zaku/zaku/axe1"
+    },
+    {
+      "predicate": { "custom_model_data": 126 },
+      "model": "custom/mobs/zaku/zaku/left_up"
+    },
+    {
+      "predicate": { "custom_model_data": 127 },
+      "model": "custom/mobs/zaku/zaku/left_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 128 },
+      "model": "custom/mobs/zaku/zaku/left_arm_down"
+    },
+    {
+      "predicate": { "custom_model_data": 129 },
+      "model": "custom/mobs/zaku/zaku/left_hand"
+    },
+    {
+      "predicate": { "custom_model_data": 130 },
+      "model": "custom/mobs/zaku/zaku/axe2"
+    },
+    {
+      "predicate": { "custom_model_data": 131 },
+      "model": "custom/mobs/zaku/zaku/body_down"
+    },
+    {
+      "predicate": { "custom_model_data": 132 },
+      "model": "custom/mobs/zaku/zaku/1"
+    },
+    {
+      "predicate": { "custom_model_data": 133 },
+      "model": "custom/mobs/zaku/zaku/2"
+    },
+    {
+      "predicate": { "custom_model_data": 134 },
+      "model": "custom/mobs/zaku/zaku/3"
+    },
+    {
+      "predicate": { "custom_model_data": 135 },
+      "model": "custom/mobs/zaku/zaku/bone"
+    },
+    {
+      "predicate": { "custom_model_data": 136 },
+      "model": "custom/mobs/zaku/zaku/body_up"
+    },
+    {
+      "predicate": { "custom_model_data": 137 },
+      "model": "custom/mobs/zaku/zaku_lore/bone3"
+    },
+    {
+      "predicate": { "custom_model_data": 138 },
+      "model": "custom/mobs/zaku/zaku_lore/bone"
+    },
+    {
+      "predicate": { "custom_model_data": 139 },
+      "model": "custom/mobs/zaku/zaku_lore/bone2"
+    },
+    {
+      "predicate": { "custom_model_data": 140 },
+      "model": "custom/mobs/zaku/zaku_lore/bone4"
+    },
+    {
+      "predicate": { "custom_model_data": 141 },
+      "model": "custom/mobs/zaku/zaku_lore1/bone3"
+    },
+    {
+      "predicate": { "custom_model_data": 142 },
+      "model": "custom/mobs/zaku/zaku_lore1/bone"
+    },
+    {
+      "predicate": { "custom_model_data": 143 },
+      "model": "custom/mobs/zaku/zaku_lore1/bone2"
+    },
+    {
+      "predicate": { "custom_model_data": 144 },
+      "model": "custom/mobs/zaku/zaku_lore1/bone4"
+    },
+    {
+      "predicate": { "custom_model_data": 145 },
+      "model": "custom/mobs/zaku/zaku_lore2/bone3"
+    },
+    {
+      "predicate": { "custom_model_data": 146 },
+      "model": "custom/mobs/zaku/zaku_lore2/bone"
+    },
+    {
+      "predicate": { "custom_model_data": 147 },
+      "model": "custom/mobs/zaku/zaku_lore2/bone2"
+    },
+    {
+      "predicate": { "custom_model_data": 148 },
+      "model": "custom/mobs/zaku/zaku_lore2/bone4"
+    },
+    {
+      "predicate": { "custom_model_data": 149 },
+      "model": "custom/mobs/zaku/zaku_mis/f1"
+    },
+    {
+      "predicate": { "custom_model_data": 150 },
+      "model": "custom/mobs/zaku/zaku_mised/f1"
+    },
+    {
+      "predicate": { "custom_model_data": 151 },
+      "model": "custom/mobs/zaku/zaku_mised/f2"
+    },
+    {
+      "predicate": { "custom_model_data": 152 },
+      "model": "custom/mobs/zaku/zaku_mised/f3"
+    },
+    {
+      "predicate": { "custom_model_data": 153 },
+      "model": "custom/mobs/zaku/zaku_mised/f4"
+    },
+    {
+      "predicate": { "custom_model_data": 154 },
+      "model": "custom/mobs/zaku/zaku_mised/f5"
+    },
+    {
+      "predicate": { "custom_model_data": 155 },
+      "model": "custom/mobs/zaku/zaku_mised/f6"
+    },
+    {
+      "predicate": { "custom_model_data": 156 },
+      "model": "custom/mobs/zaku/zaku_mised/f7"
+    },
+    {
+      "predicate": { "custom_model_data": 157 },
+      "model": "custom/mobs/zaku/zaku_mised/f8"
+    },
+    {
+      "predicate": { "custom_model_data": 158 },
+      "model": "custom/mobs/zaku/zaku_natk1/body"
+    },
+    {
+      "predicate": { "custom_model_data": 159 },
+      "model": "custom/mobs/zaku/zaku_natk2/body"
+    },
+    {
+      "predicate": { "custom_model_data": 160 },
+      "model": "custom/mobs/zaku/zaku_natk3/body"
+    },
+    {
+      "predicate": { "custom_model_data": 161 },
       "model": "custom/mobs/zaku/zaku_natk3/body2"
     }
   ]
