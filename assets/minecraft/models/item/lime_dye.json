@@ -76,6 +76,12 @@
 				"custom_model_data": 12
 			},
 			"model": "custom/furniture/whiteboard_frame2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "custom/furniture/target"
 		}
 	]
 }
