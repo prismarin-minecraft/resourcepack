@@ -22,12 +22,6 @@
 				"custom_model_data": 4
 			},
 			"model": "custom/interactables/keylock"
-		},
-            {
-			"predicate": {
-				"custom_model_data": 5
-			},
-			"model": "custom/interactables/key"
 		}
 	]
 }
