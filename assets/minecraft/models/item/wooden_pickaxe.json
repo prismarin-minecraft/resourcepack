@@ -97,6 +97,24 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 10009
+			},
+			"model": "custom/guns/ar/qbz95/skins/predator/predator"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10010
+			},
+			"model": "custom/guns/ar/qbz95/skins/predator/predator_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10011
+			},
+			"model": "custom/guns/ar/qbz95/skins/predator/predator_aim"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 10017
 			},
 			"model": "custom/guns/ar/asval/skins/prismarin/prismarin"

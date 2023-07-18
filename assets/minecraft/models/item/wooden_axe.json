@@ -135,6 +135,24 @@
 				"custom_model_data": 10007
 			},
 			"model": "custom/guns/smg/vector/skins/prismarin/prismarin_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10009
+			},
+			"model": "custom/guns/smg/ump/skins/predator/predator"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10010
+			},
+			"model": "custom/guns/smg/ump/skins/predator/predator_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10011
+			},
+			"model": "custom/guns/smg/ump/skins/predator/predator_aim"
 		}
 	]
 }

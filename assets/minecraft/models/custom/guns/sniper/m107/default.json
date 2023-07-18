@@ -15800,8 +15800,8 @@
 			"translation": [0, 0, -29.75]
 		},
 		"fixed": {
-			"rotation": [-60, 0, 90],
-			"translation": [1.5, 9.75, -14.5],
+			"rotation": [0, -90, 0],
+			"translation": [-4.25, -2.5, -0.5],
 			"scale": [1.5, 1.5, 1.5]
 		}
 	},

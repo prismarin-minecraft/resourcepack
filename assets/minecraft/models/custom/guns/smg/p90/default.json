@@ -9552,8 +9552,9 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"fixed": {
-			"rotation": [0, -45, -90],
-			"translation": [0, -15, -5.5]
+			"rotation": [0, -90, 0],
+			"translation": [-5.75, 1.25, -1],
+			"scale": [1.27, 1.27, 1.27]
 		}
 	},
 	"groups": [

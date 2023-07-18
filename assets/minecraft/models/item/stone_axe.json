@@ -70,6 +70,18 @@
 				"custom_model_data": 10003
 			},
 			"model": "custom/guns/lmg/l86/skins/prismarin/prismarin_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10009
+			},
+			"model": "custom/guns/lmg/minigun/skins/predator/predator"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10010
+			},
+			"model": "custom/guns/lmg/minigun/skins/predator/predator_reload"
 		}
 	]
 }

@@ -1743,8 +1743,9 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"fixed": {
-			"rotation": [90, 45, -90],
-			"translation": [0, 4, 0]
+			"rotation": [0, 90, 0],
+			"translation": [-1.5, 4, -0.25],
+			"scale": [1.18, 1.18, 1.18]
 		}
 	}
 }

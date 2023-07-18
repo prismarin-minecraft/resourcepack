@@ -59,6 +59,24 @@
 			},
 			"model": "custom/guns/shotgun/double_barrel/default_aim"
 
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10005
+			},
+			"model": "custom/guns/shotgun/aa12/skins/predator/predator"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10006
+			},
+			"model": "custom/guns/shotgun/aa12/skins/predator/predator_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10007
+			},
+			"model": "custom/guns/shotgun/aa12/skins/predator/predator_aim"
 		}
 	]
 }

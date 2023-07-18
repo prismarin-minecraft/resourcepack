@@ -71,6 +71,24 @@
 				"custom_model_data": 10001
 			},
 			"model": "custom/guns/sniper/awp/skins/prismarin/prismarin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10002
+			},
+			"model": "custom/guns/sniper/awp/skins/prismarin/prismarin_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10005
+			},
+			"model": "custom/guns/sniper/ballista/skins/predator/predator"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10006
+			},
+			"model": "custom/guns/sniper/ballista/skins/predator/predator_reload"
 		}
 	]
 }

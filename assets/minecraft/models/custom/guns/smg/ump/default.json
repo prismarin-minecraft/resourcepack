@@ -4655,9 +4655,9 @@
 			"translation": [0, 13.25, -5]
 		},
 		"fixed": {
-			"rotation": [0, -90, 0],
-			"translation": [2.75, 1.5, -1.5],
-			"scale": [0.76, 0.76, 0.76]
+			"rotation": [0, 90, 0],
+			"translation": [-2.75, 1.5, -0.25],
+			"scale": [1.36, 1.36, 1.36]
 		}
 	},
 	"groups": [
