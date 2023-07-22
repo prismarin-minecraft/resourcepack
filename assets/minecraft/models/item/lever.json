@@ -46,6 +46,12 @@
 				"custom_model_data": 7
 			},
 			"model": "custom/attachments/vertical_grip"
+		},
+	        {
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "custom/attachments/laser"
 		}
 	]
 }

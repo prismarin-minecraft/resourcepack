@@ -97,6 +97,24 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "custom/guns/ar/scar/default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "custom/guns/ar/scar/default_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "custom/guns/ar/scar/default_aim"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 10009
 			},
 			"model": "custom/guns/ar/qbz95/skins/predator/predator"
