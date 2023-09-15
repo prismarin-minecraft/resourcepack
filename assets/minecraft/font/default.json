@@ -13,11 +13,7 @@
         { "type": "bitmap", "file": "minecraft:gui/ranks/scouter.png", "ascent": 7, "height": 7, "chars": [ "么" ] },
         { "type": "bitmap", "file": "minecraft:gui/ranks/recruit.png", "ascent": 7, "height": 7, "chars": [ "现" ] },
         { "type": "bitmap", "file": "minecraft:gui/ranks/prismarin.png", "ascent": 7, "height": 7, "chars": [ "下" ] },
-<<<<<<< HEAD
-=======
         { "type": "bitmap", "file": "minecraft:gui/ranks/modeler.png", "ascent": 7, "height": 7, "chars": [ "们" ] },
->>>>>>> d37a8ff (Added s2 changes)
-
         {"type": "bitmap", "file": "minecraft:gui/airdrop.png","ascent": 8,"height": 10,"chars": ["\uEff1"]},
         {"type": "bitmap", "file": "minecraft:gui/pixel.png","ascent": -2000,"height": -3,"chars": ["七"]},
         {"type": "bitmap", "file": "minecraft:gui/battlepass.png","ascent": 13,"height": 139,"chars": ["ㇺ"]},
@@ -27,11 +23,7 @@
         {"type": "bitmap", "file": "minecraft:gui/generator.png","ascent": 13,"height": 139,"chars": ["起"]},
         {"type": "bitmap", "file": "minecraft:gui/machine_upgrades.png","ascent": 13,"height": 139,"chars": ["汉"]},
         {"type": "bitmap", "file": "minecraft:gui/garden_cloche.png","ascent": 13,"height": 139,"chars": ["在"]},
-<<<<<<< HEAD
-=======
         {"type": "bitmap", "file": "minecraft:gui/research_table.png","ascent": 45,"height": 139,"chars": ["上"]},
->>>>>>> d37a8ff (Added s2 changes)
-
         { "type": "bitmap", "file": "minecraft:gui/minigames.png", "ascent": 37, "height": 150, "chars": [ "十" ] },
         { "type": "bitmap", "file": "minecraft:gui/recycler.png", "ascent": 37, "height": 150, "chars": [ "会" ] },
         { "type": "bitmap", "file": "minecraft:gui/loadout.png", "ascent": 37, "height": 150, "chars": [ "日" ] },
@@ -46,7 +38,5 @@
         { "type": "bitmap", "file": "minecraft:gui/hardpoint.png", "ascent": 45, "height": 139, "chars": [ "以" ] },
 
         { "type": "bitmap", "file": "minecraft:gui/titles/flash_bang.png", "ascent": 500, "height": 1000, "chars": [ "語" ] }
-
-        
     ]
 }

@@ -22,8 +22,6 @@
 				"custom_model_data": 3
 			},
 			"model": "custom/medical/medkit"
-<<<<<<< HEAD
-=======
 		},
 		{
 			"predicate": {
@@ -60,7 +58,6 @@
 				"custom_model_data": 9
 			},
 			"model": "custom/components/spring"
->>>>>>> d37a8ff (Added s2 changes)
 		}
 	]
 }

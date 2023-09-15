@@ -28,9 +28,7 @@
 				"custom_model_data": 4
 			},
 			"model": "custom/misc/tombstone"
-<<<<<<< HEAD
 		}
-=======
 		},
         {
 			"predicate": {
@@ -92,7 +90,6 @@
 			},
 			"model": "custom/machines/mixing_table"
 		}
-		
->>>>>>> d37a8ff (Added s2 changes)
+	
 	]
 }
