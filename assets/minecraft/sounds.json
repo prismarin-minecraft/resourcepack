@@ -1,10 +1,7 @@
 {
-<<<<<<< HEAD
-=======
   "radioactive": {
     "sounds": ["misc/radioactive"]
   },
->>>>>>> d37a8ff (Added s2 changes)
   "shoot.ar": {
     "sounds": ["shoot/ar"]
   },
@@ -53,12 +50,9 @@
   "misc.lowammo": {
     "sounds": ["misc/lowammo"]
   },
-<<<<<<< HEAD
-=======
   "research": {
     "sounds": ["research"]
   },
->>>>>>> d37a8ff (Added s2 changes)
   "airstrike.request": {
     "sounds": ["throwable/airstrike/airstrike_request"]
   },
