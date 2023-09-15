@@ -35,8 +35,6 @@
     {
       "predicate": { "custom_model_data": 8 },
       "model": "custom/misc/gui/recycler/recycler_off"
-<<<<<<< HEAD
-=======
     },
     {
       "predicate": { "custom_model_data": 9 },
@@ -45,7 +43,6 @@
      {
       "predicate": { "custom_model_data": 10 },
       "model": "custom/misc/gui/research_table/button_success"
->>>>>>> d37a8ff (Added s2 changes)
     }
   ]
 }
