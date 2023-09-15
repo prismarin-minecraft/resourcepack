@@ -22,6 +22,45 @@
 				"custom_model_data": 3
 			},
 			"model": "custom/medical/medkit"
+<<<<<<< HEAD
+=======
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/components/ar_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/components/pistol_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/components/shotgun_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/components/smg_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "custom/components/sniper_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "custom/components/spring"
+>>>>>>> d37a8ff (Added s2 changes)
 		}
 	]
 }

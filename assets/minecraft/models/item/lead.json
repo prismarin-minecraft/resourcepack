@@ -28,6 +28,71 @@
 				"custom_model_data": 4
 			},
 			"model": "custom/misc/tombstone"
+<<<<<<< HEAD
 		}
+=======
+		},
+        {
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/machines/upgrades/speed_upgrade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/machines/upgrades/storage_upgrade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "custom/machines/upgrades/storage_upgrade_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "custom/machines/upgrades/storage_upgrade_3"
+		},
+                {
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "custom/machines/research_table"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "custom/machines/vending_machine"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "custom/lootbox/low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "custom/lootbox/medium"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "custom/lootbox/high"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "custom/machines/mixing_table"
+		}
+		
+>>>>>>> d37a8ff (Added s2 changes)
 	]
 }
