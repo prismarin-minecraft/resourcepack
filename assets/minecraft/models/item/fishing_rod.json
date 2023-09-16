@@ -1,0 +1,40 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": { "layer0": "item/fishing_rod" },
+    "overrides": [
+      { "predicate": { "cast": 1 }, "model": "item/fishing_rod_cast" },
+      {
+        "predicate": { "custom_model_data": 1 },
+        "model": "custom/rods/beginner/beginner_retracted"
+      },
+      {
+        "predicate": { "custom_model_data": 1, "cast": 1 },
+        "model": "custom/rods/beginner/beginner_out"
+      },
+      {
+        "predicate": { "custom_model_data": 2 },
+        "model": "custom/rods/apprentice/apprentice_retracted"
+      },
+      {
+        "predicate": { "custom_model_data": 2, "cast": 1 },
+        "model": "custom/rods/apprentice/apprentice_out"
+      },
+      {
+        "predicate": { "custom_model_data": 3 },
+        "model": "custom/rods/advanced/advanced_retracted"
+      },
+      {
+        "predicate": { "custom_model_data": 3, "cast": 1 },
+        "model": "custom/rods/advanced/advanced_out"
+      },
+      {
+        "predicate": { "custom_model_data": 4 },
+        "model": "custom/rods/master/master_retracted"
+      },
+      {
+        "predicate": { "custom_model_data": 4, "cast": 1 },
+        "model": "custom/rods/master/master_out"
+      }
+    ]
+  }
+  
