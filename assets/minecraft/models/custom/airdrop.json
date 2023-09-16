@@ -267,5 +267,12 @@
 				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-7, -3, 4],
+			"scale": [2, 2, 2]
+		}
+	}
 }
