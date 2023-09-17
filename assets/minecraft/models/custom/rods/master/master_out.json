@@ -1807,12 +1807,12 @@
 			"translation": [0, 8, 1]
 		},
 		"firstperson_righthand": {
-			"rotation": [-79, -20, -34],
-			"translation": [10.5, -1.5, -9]
+			"rotation": [-79, -13, -25],
+			"translation": [10.5, -1.25, -9]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-79, -20, -34],
-			"translation": [10.5, -1.5, -9]
+			"rotation": [-79, -13, -25],
+			"translation": [10.5, -1.25, -9]
 		},
 		"ground": {
 			"translation": [0, 7.25, 0],
