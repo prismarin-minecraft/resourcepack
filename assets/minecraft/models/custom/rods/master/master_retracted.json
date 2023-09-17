@@ -2097,12 +2097,12 @@
 			"translation": [0, 8, 1]
 		},
 		"firstperson_righthand": {
-			"rotation": [-58, 0, 0],
-			"translation": [2.25, 0.75, -9]
+			"rotation": [-79, -20, -34],
+			"translation": [10.5, -1.5, -9]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-58, 0, 0],
-			"translation": [2.25, 0.75, -9]
+			"rotation": [-79, -20, -34],
+			"translation": [10.5, -1.5, -9]
 		},
 		"ground": {
 			"translation": [0, 7.25, 0],

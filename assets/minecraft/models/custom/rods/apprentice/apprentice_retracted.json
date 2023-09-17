@@ -376,6 +376,16 @@
 		"thirdperson_righthand": {
 			"translation": [0, 2.25, 1.25]
 		},
+		"firstperson_righthand": {
+			"rotation": [-32, 0, 0],
+			"translation": [4.25, 0, 0],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-32, 0, 0],
+			"translation": [4.25, 0, 0],
+			"scale": [0.78, 0.78, 0.78]
+		},
 		"ground": {
 			"translation": [0, 4, 0],
 			"scale": [0.77, 0.77, 0.77]
