@@ -82,6 +82,12 @@
 				"custom_model_data": 13
 			},
 			"model": "custom/furniture/target"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "custom/furniture/tanker"
 		}
 	]
 }
