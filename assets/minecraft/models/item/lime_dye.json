@@ -88,6 +88,24 @@
 				"custom_model_data": 14
 			},
 			"model": "custom/furniture/tanker"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "custom/furniture/lights_on"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "custom/furniture/lights_off"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "custom/furniture/lights_yellow"
 		}
 	]
 }
