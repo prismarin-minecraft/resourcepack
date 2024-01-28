@@ -64,6 +64,18 @@
 				"custom_model_data": 10
 			},
 			"model": "custom/misc/diesel"
+		},
+                {
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "custom/backpacks/small_backpack"
+		},
+                {
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "custom/backpacks/medium_backpack"
 		}
 	]
 }
