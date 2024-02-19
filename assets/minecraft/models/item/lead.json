@@ -88,6 +88,12 @@
 				"custom_model_data": 14
 			},
 			"model": "custom/machines/mixing_table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "custom/machines/fabricator"
 		}
 	
 	]
