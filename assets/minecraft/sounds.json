@@ -17,6 +17,21 @@
   "shoot.smg": {
     "sounds": ["shoot/smg"]
   },
+  "shoot.deagle": {
+    "sounds": ["shoot/deagle"]
+  },
+  "shoot.glock": {
+    "sounds": ["shoot/glock/glock_01", "shoot/glock/glock_02"]
+  },
+  "shoot.mac": {
+    "sounds": ["shoot/mac/mac10_01", "shoot/mac/mac10_02"]
+  },
+  "shoot.ak": {
+    "sounds": ["shoot/ak47"]
+  },
+  "shoot.awp": {
+    "sounds": ["shoot/awp"]
+  },
   "shoot.minigun": {
     "sounds": ["shoot/minigun"]
   },
