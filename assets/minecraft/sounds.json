@@ -20,6 +20,15 @@
   "shoot.deagle": {
     "sounds": ["shoot/deagle"]
   },
+  "shoot.l96": {
+    "sounds": ["shoot/l96"]
+  },
+  "shoot.ump45": {
+    "sounds": ["shoot/ump45/ump45_02", "shoot/ump45/ump45_04"]
+  },
+  "shoot.scar": {
+    "sounds": ["shoot/scar/scar_01", "shoot/scar/scar_02"]
+  },
   "shoot.glock": {
     "sounds": ["shoot/glock/glock_01", "shoot/glock/glock_02"]
   },
