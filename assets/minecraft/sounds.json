@@ -26,6 +26,9 @@
   "shoot.ump45": {
     "sounds": ["shoot/ump45/ump45_02", "shoot/ump45/ump45_04"]
   },
+  "shoot.pdw": {
+    "sounds": ["shoot/pdw/pdw_01", "shoot/pdw/pdw_02", "shoot/pdw/pdw_03"]
+  },
   "shoot.scar": {
     "sounds": ["shoot/scar/scar_01", "shoot/scar/scar_02"]
   },
