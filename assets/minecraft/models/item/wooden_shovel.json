@@ -77,6 +77,24 @@
 				"custom_model_data": 10007
 			},
 			"model": "custom/guns/shotgun/aa12/skins/predator/predator_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10009
+			},
+			"model": "custom/guns/shotgun/aa12/skins/lime_default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10010
+			},
+			"model": "custom/guns/shotgun/aa12/skins/lime_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10011
+			},
+			"model": "custom/guns/shotgun/aa12/skins/lime_aim"
 		}
 	]
 }

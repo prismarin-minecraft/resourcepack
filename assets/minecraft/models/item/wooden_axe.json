@@ -153,6 +153,25 @@
 				"custom_model_data": 10011
 			},
 			"model": "custom/guns/smg/ump/skins/predator/predator_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10013
+			},
+			"model": "custom/guns/smg/p90/skins/lime/lime_default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10014
+			},
+			"model": "custom/guns/smg/p90/skins/lime/lime_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10015
+			},
+			"model": "custom/guns/smg/p90/skins/lime/lime_aim"
 		}
+
 	]
 }

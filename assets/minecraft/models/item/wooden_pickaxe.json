@@ -148,6 +148,24 @@
 				"custom_model_data": 10019
 			},
 			"model": "custom/guns/ar/asval/skins/prismarin/prismarin_aim"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10021
+			},
+			"model": "custom/guns/ar/m4a1/skins/lime_default"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10022
+			},
+			"model": "custom/guns/ar/m4a1/skins/lime_reload"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10023
+			},
+			"model": "custom/guns/ar/m4a1/skins/lime_aim"
 		}
 	]
 }
