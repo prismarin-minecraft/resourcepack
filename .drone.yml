@@ -17,6 +17,7 @@ steps:
         from_secret: VAULT_TOKEN
       GITHUB_TOKEN:
         from_secret: GITHUB_TOKEN
+      BRANCH: master
 ---
 kind: pipeline
 type: kubernetes
@@ -36,5 +37,4 @@ steps:
         from_secret: VAULT_TOKEN
       GITHUB_TOKEN:
         from_secret: GITHUB_TOKEN
-      BRANCH:
-        from_secret: dev
+      BRANCH: dev
