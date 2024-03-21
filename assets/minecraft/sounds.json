@@ -20,8 +20,7 @@
       "mob/zombie/say17",
       "mob/zombie/say18",
       "mob/zombie/say19"
-	  
-    ],
+    ]
   },
   "radioactive": {
     "sounds": ["misc/radioactive"]
