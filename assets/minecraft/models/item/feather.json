@@ -76,6 +76,12 @@
 				"custom_model_data": 12
 			},
 			"model": "custom/backpacks/medium_backpack"
+		},
+                 {
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "custom/backpacks/large_backpack"
 		}
 	]
 }
