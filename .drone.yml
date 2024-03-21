@@ -11,13 +11,13 @@ trigger:
 
 steps:
   - name: upload
-    image: docker-private.averix.tech/prismarin/resourcepack-uploader:1.0.0
+    image: docker-private.averix.tech/prismarin/resourcepack-uploader:2.0.2
     environment:
       VAULT_TOKEN:
         from_secret: VAULT_TOKEN
       GITHUB_TOKEN:
         from_secret: GITHUB_TOKEN
-      BRANCH: master
+      BRANCH: main
 ---
 kind: pipeline
 type: kubernetes
@@ -31,7 +31,7 @@ trigger:
 
 steps:
   - name: upload
-    image: docker-private.averix.tech/prismarin/resourcepack-uploader:2.0.1
+    image: docker-private.averix.tech/prismarin/resourcepack-uploader:2.0.2
     environment:
       VAULT_TOKEN:
         from_secret: VAULT_TOKEN
