@@ -34,6 +34,12 @@
 				"custom_model_data": 5
 			},
 			"model": "custom/ammo/rail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/ammo/piercing_sniper"
 		}
 	]
 }

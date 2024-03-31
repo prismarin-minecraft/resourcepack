@@ -28,6 +28,18 @@
 				"custom_model_data": 4
 			},
 			"model": "custom/hat/gas_mask"
+		},
+                {
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "custom/misc/grappling_gun/grappling_gun_with_hook"
+		},
+                {
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "custom/misc/grappling_gun/grappling_gun_without_hook"
 		}
 	]
 }

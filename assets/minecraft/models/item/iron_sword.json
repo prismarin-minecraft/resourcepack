@@ -25,6 +25,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "custom/meele/spiked_bat"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 10100
 			},
 			"model": "custom/meele/katana/kold"
